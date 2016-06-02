@@ -12,4 +12,5 @@ class RouteLiquor(object):
         self.location2 = location2
         
     def getRoute(self):
+        pass
         
