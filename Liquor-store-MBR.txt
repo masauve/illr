@@ -1,0 +1,11 @@
+In:
+  Route as geojson as returned by routing service
+Out:
+  Coordinates of bounding box to use for searching for liquor stores (x1, y1, x2, y2)
+  
+Scaffold logic:
+  geosquare/geojson-bbox
+  
+Better: 
+  Calculate dimensions of bounding box, increase to an arbitrary minimum (geographics) if needed 
+  
