@@ -1,0 +1,5558 @@
+[
+  {
+    "addressString": "2 - 575A ALDER AVE",
+    "X": -121.2961254,
+    "Y": 51.6393772,
+    "Notes": 0
+  },
+  {
+    "addressString": "365 S CARIBOO HWY",
+    "X": -121.2884938,
+    "Y": 51.6623911,
+    "Notes": 0
+  },
+  {
+    "addressString": "2 - 95A CARIBOO HIGHWAY 97",
+    "X": -121.2962035,
+    "Y": 51.6479966,
+    "Notes": 0
+  },
+  {
+    "addressString": "117 - 2070 SUMAS WAY",
+    "X": -122.2694292,
+    "Y": 49.0397177,
+    "Notes": 0
+  },
+  {
+    "addressString": "40 - 32500 SOUTH FRASER WAY",
+    "X": -122.3242316,
+    "Y": 49.0513036,
+    "Notes": 0
+  },
+  {
+    "addressString": "#1-31205 MACLURE ROAD",
+    "X": -122.359425,
+    "Y": 49.0549918,
+    "Notes": 0
+  },
+  {
+    "addressString": "1 - 34252 MARSHALL ROAD",
+    "X": -122.2758648,
+    "Y": 49.0382957,
+    "Notes": 0
+  },
+  {
+    "addressString": "100 - 1900 NORTH PARALLEL ROAD",
+    "X": -122.2316476,
+    "Y": 49.0366486,
+    "Notes": 0
+  },
+  {
+    "addressString": "102-2618 MCMILLAN ROAD",
+    "X": -122.259805,
+    "Y": 49.0495845,
+    "Notes": 0
+  },
+  {
+    "addressString": "104 1520 MCCALLUM ROAD",
+    "X": -122.293093,
+    "Y": 49.0302406,
+    "Notes": 0
+  },
+  {
+    "addressString": "135-2362 WHATCOM ROAD",
+    "X": -122.2233358,
+    "Y": 49.0447513,
+    "Notes": 0
+  },
+  {
+    "addressString": "150-3033 IMMEL STREET",
+    "X": -122.2734247,
+    "Y": 49.0571767,
+    "Notes": 0
+  },
+  {
+    "addressString": "2509 PAULINE ST",
+    "X": -122.2917697,
+    "Y": 49.0475735,
+    "Notes": 0
+  },
+  {
+    "addressString": "2520 MONTVUE AVE",
+    "X": -122.2889826,
+    "Y": 49.047802,
+    "Notes": 0
+  },
+  {
+    "addressString": "30  31940 SOUTH FRASER WAY",
+    "X": -122.3392027,
+    "Y": 49.048876,
+    "Notes": 0
+  },
+  {
+    "addressString": "32470 SIMON AVE",
+    "X": -122.3246458,
+    "Y": 49.0527109,
+    "Notes": 0
+  },
+  {
+    "addressString": "33790 ESSENDENE AVE",
+    "X": -122.289348,
+    "Y": 49.0484932,
+    "Notes": 0
+  },
+  {
+    "addressString": "M115 - 3122 MT. LEHMAN ROAD",
+    "X": -122.3782518,
+    "Y": 49.0581176,
+    "Notes": 0
+  },
+  {
+    "addressString": "101-1201 SUMAS WAY",
+    "X": -122.2655133,
+    "Y": 49.0259459,
+    "Notes": 0
+  },
+  {
+    "addressString": "28060 FRASER HIGHWAY",
+    "X": -122.4475708,
+    "Y": 49.056696,
+    "Notes": 0
+  },
+  {
+    "addressString": "32131 MARSHALL ROAD",
+    "X": -122.3337863,
+    "Y": 49.0385849,
+    "Notes": 0
+  },
+  {
+    "addressString": "36363 AUGUSTON PKY S",
+    "X": -122.2181739,
+    "Y": 49.0831336,
+    "Notes": 0
+  },
+  {
+    "addressString": "3925 TOWNLINE RD",
+    "X": -122.359971,
+    "Y": 49.072814,
+    "Notes": 0
+  },
+  {
+    "addressString": "401A 32900 SOUTH FRASER WAY",
+    "X": -122.3122583,
+    "Y": 49.0490999,
+    "Notes": 0
+  },
+  {
+    "addressString": "ADJ. 3342 TOWNLINE RD. (CIVIC ADDRESS TBD)",
+    "X": -138.4476442,
+    "Y": 44.199612,
+    "Notes": 0
+  },
+  {
+    "addressString": "7250 PIONEER AVENUE",
+    "X": -121.759674,
+    "Y": 49.2383109,
+    "Notes": 0
+  },
+  {
+    "addressString": "1810 #9 HIGHWAY",
+    "X": -121.7615733,
+    "Y": 49.2371012,
+    "Notes": 0
+  },
+  {
+    "addressString": "2406 HOT SPRINGS RD",
+    "X": -121.7825466,
+    "Y": 49.2476502,
+    "Notes": 0
+  },
+  {
+    "addressString": "200 - 26310 FRASER HWY",
+    "X": -122.4949872,
+    "Y": 49.058843,
+    "Notes": 0
+  },
+  {
+    "addressString": "26444 32 AVENUE",
+    "X": -122.4909929,
+    "Y": 49.0598833,
+    "Notes": 0
+  },
+  {
+    "addressString": "27214 FRASER HWY",
+    "X": -122.4702038,
+    "Y": 49.0577532,
+    "Notes": 0
+  },
+  {
+    "addressString": "21 MAPLE STREET",
+    "X": -125.0287307,
+    "Y": 49.6247909,
+    "Notes": 0
+  },
+  {
+    "addressString": "287 - 291 FIR STREET",
+    "X": -126.925899,
+    "Y": 50.5805277,
+    "Notes": 0
+  },
+  {
+    "addressString": "81 FIR STREET",
+    "X": -126.9288692,
+    "Y": 50.5857478,
+    "Notes": 0
+  },
+  {
+    "addressString": "3495 SMITH DRIVE",
+    "X": -119.1849145,
+    "Y": 50.4487557,
+    "Notes": 0
+  },
+  {
+    "addressString": "2570 PLEASANT VALLEY ROAD",
+    "X": -119.2051029,
+    "Y": 50.4397453,
+    "Notes": 0
+  },
+  {
+    "addressString": "3400 SMITH DR",
+    "X": -119.1835742,
+    "Y": 50.4479978,
+    "Notes": 0
+  },
+  {
+    "addressString": "301 3RD STREET",
+    "X": -123.9510151,
+    "Y": 49.1622055,
+    "Notes": 0
+  },
+  {
+    "addressString": "4639 BARRIERE TOWN ROAD",
+    "X": -120.1244368,
+    "Y": 51.1843674,
+    "Notes": 0
+  },
+  {
+    "addressString": "4347 YELLOWHEAD HWY",
+    "X": -128.5715356,
+    "Y": 54.5119111,
+    "Notes": 0
+  },
+  {
+    "addressString": "624 CLIFF STREET",
+    "X": -126.7557133,
+    "Y": 52.3722686,
+    "Notes": 0
+  },
+  {
+    "addressString": "48115 TRANS CANADA HWY",
+    "X": -121.4432118,
+    "Y": 49.8701906,
+    "Notes": 0
+  },
+  {
+    "addressString": "102 - 996 DORMAN ROAD",
+    "X": -123.3382701,
+    "Y": 49.3793708,
+    "Notes": 0
+  },
+  {
+    "addressString": "8 - 7103 W SAANICH RD",
+    "X": -123.4439393,
+    "Y": 48.5752979,
+    "Notes": 0
+  },
+  {
+    "addressString": "7180 WEST SAANICH ROAD",
+    "X": -123.4726821,
+    "Y": 48.6133657,
+    "Notes": 0
+  },
+  {
+    "addressString": "16 - 4429 KINGSWAY AVE",
+    "X": -123.0056334,
+    "Y": 49.2313026,
+    "Notes": 0
+  },
+  {
+    "addressString": "235 - 7155 KINGSWAY AVE",
+    "X": -122.9562203,
+    "Y": 49.2190298,
+    "Notes": 0
+  },
+  {
+    "addressString": "4450 E HASTINGS ST",
+    "X": -123.0041062,
+    "Y": 49.2809615,
+    "Notes": 0
+  },
+  {
+    "addressString": "6512 HASTINGS STREET",
+    "X": -122.9678537,
+    "Y": 49.2802698,
+    "Notes": 0
+  },
+  {
+    "addressString": "7509 MARKET CROSSING",
+    "X": -127.4919517,
+    "Y": 50.7268403,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT 103 - 3433 NORTH RD.",
+    "X": -122.8935109,
+    "Y": 49.2524535,
+    "Notes": 0
+  },
+  {
+    "addressString": "109 - 1899 ROSSER AVE",
+    "X": -123.0060522,
+    "Y": 49.2674445,
+    "Notes": 0
+  },
+  {
+    "addressString": "4125 HASTINGS ST",
+    "X": -123.0129941,
+    "Y": 49.2817166,
+    "Notes": 0
+  },
+  {
+    "addressString": "5  7000 LOUGHEED HIGHWAY",
+    "X": -122.9581281,
+    "Y": 49.2575101,
+    "Notes": 0
+  },
+  {
+    "addressString": "5665 KINGSWAY",
+    "X": -122.9813235,
+    "Y": 49.2226308,
+    "Notes": 0
+  },
+  {
+    "addressString": "5820 MARINE DR",
+    "X": -122.9795097,
+    "Y": 49.2053965,
+    "Notes": 0
+  },
+  {
+    "addressString": "7557 EDMONDS ST",
+    "X": -122.9440734,
+    "Y": 49.2225352,
+    "Notes": 0
+  },
+  {
+    "addressString": "7651 ROYAL OAK AVENUE",
+    "X": -122.9885274,
+    "Y": 49.2142042,
+    "Notes": 0
+  },
+  {
+    "addressString": "9 1601 BURNWOOD DR",
+    "X": -122.9462623,
+    "Y": 49.2698479,
+    "Notes": 0
+  },
+  {
+    "addressString": "14&15 8982 AND 8992 UNIVERSITY HIGH STREET",
+    "X": -138.4476442,
+    "Y": 44.199612,
+    "Notes": 0
+  },
+  {
+    "addressString": "8 - 117 HIGHWAY 35",
+    "X": -125.7553979,
+    "Y": 54.2242266,
+    "Notes": 0
+  },
+  {
+    "addressString": "156 FRANCOIS LAKE DRIVE",
+    "X": -125.7614999,
+    "Y": 54.2249475,
+    "Notes": 0
+  },
+  {
+    "addressString": "164 HWY 16",
+    "X": -131.9906873,
+    "Y": 53.2546143,
+    "Notes": 0
+  },
+  {
+    "addressString": "1360 HWY 97 N",
+    "X": -122.5081943,
+    "Y": 52.9952198,
+    "Notes": 0
+  },
+  {
+    "addressString": "1064 S TRANS CANADA HWY",
+    "X": -123.5493945,
+    "Y": 48.6329378,
+    "Notes": 0
+  },
+  {
+    "addressString": "11 2116 ISLAND HWY S",
+    "X": -125.2183619,
+    "Y": 49.9713408,
+    "Notes": 0
+  },
+  {
+    "addressString": "270 - 1400 DOGWOOD ST.",
+    "X": -125.2509677,
+    "Y": 50.0294538,
+    "Notes": 0
+  },
+  {
+    "addressString": "1054 SOUTH ISLAND HIGHWAY",
+    "X": -125.2267791,
+    "Y": 49.9881704,
+    "Notes": 0
+  },
+  {
+    "addressString": "1328 ISLAND HIGHWAY",
+    "X": -125.8149359,
+    "Y": 50.2616768,
+    "Notes": 0
+  },
+  {
+    "addressString": "1342 SHOPPERS ROW",
+    "X": -125.245975,
+    "Y": 50.0284123,
+    "Notes": 0
+  },
+  {
+    "addressString": "145 BRANT DR",
+    "X": -122.8525316,
+    "Y": 49.2748894,
+    "Notes": 0
+  },
+  {
+    "addressString": "1760 ISLAND HWY",
+    "X": -125.2680376,
+    "Y": 50.0333478,
+    "Notes": 0
+  },
+  {
+    "addressString": "2207B GLENMORE RD",
+    "X": -125.1292442,
+    "Y": 49.8698214,
+    "Notes": 0
+  },
+  {
+    "addressString": "2253 ISLAND HWY S",
+    "X": -125.2153589,
+    "Y": 49.9707413,
+    "Notes": 0
+  },
+  {
+    "addressString": "3930 ISLAND HIGHWAY NORTH",
+    "X": -124.99079,
+    "Y": 49.7029869,
+    "Notes": 0
+  },
+  {
+    "addressString": "45 KM W OF CAMPBELL RIVER",
+    "X": -125.9112836,
+    "Y": 49.1532059,
+    "Notes": 0
+  },
+  {
+    "addressString": "84 DOGWOOD ST",
+    "X": -125.2480054,
+    "Y": 50.0091706,
+    "Notes": 0
+  },
+  {
+    "addressString": "A7 465 MERECROFT ROAD",
+    "X": -125.2461096,
+    "Y": 49.9996738,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT 203 - 205 801 HILCHEY ROAD",
+    "X": -125.2453073,
+    "Y": 49.9731251,
+    "Notes": 0
+  },
+  {
+    "addressString": "3692 ISLAND HWY S",
+    "X": -125.1996967,
+    "Y": 49.9495412,
+    "Notes": 0
+  },
+  {
+    "addressString": "8893 GRANGER ROAD",
+    "X": -115.8079576,
+    "Y": 50.1584843,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT G - 635 COLUMBIA AVENUE",
+    "X": -117.6649336,
+    "Y": 49.3216069,
+    "Notes": 0
+  },
+  {
+    "addressString": "1101  4TH ST",
+    "X": -117.6646008,
+    "Y": 49.3256862,
+    "Notes": 0
+  },
+  {
+    "addressString": "1965 COLUMBIA AVE",
+    "X": -117.6533648,
+    "Y": 49.2966894,
+    "Notes": 0
+  },
+  {
+    "addressString": "651 18TH ST",
+    "X": -117.6562515,
+    "Y": 49.3005173,
+    "Notes": 0
+  },
+  {
+    "addressString": "119 CHASE ST",
+    "X": -119.6882744,
+    "Y": 50.8207762,
+    "Notes": 0
+  },
+  {
+    "addressString": "718 SHUSWAP AVENUE",
+    "X": -119.689449,
+    "Y": 50.8196882,
+    "Notes": 0
+  },
+  {
+    "addressString": "2592 LEGION ST",
+    "X": -123.7185126,
+    "Y": 48.9223318,
+    "Notes": 0
+  },
+  {
+    "addressString": "3055 OAK STREET",
+    "X": -123.7270876,
+    "Y": 48.9259522,
+    "Notes": 0
+  },
+  {
+    "addressString": "9576 CHEMAINUS ROAD",
+    "X": -123.7126589,
+    "Y": 48.9140825,
+    "Notes": 0
+  },
+  {
+    "addressString": "9644 CHEMAINUS RD.",
+    "X": -123.7153632,
+    "Y": 48.9180658,
+    "Notes": 0
+  },
+  {
+    "addressString": "49TH AVE W",
+    "X": -125.9113081,
+    "Y": 49.1532312,
+    "Notes": 0
+  },
+  {
+    "addressString": "4905 SOUTH ACCESS ROAD",
+    "X": -121.6288315,
+    "Y": 55.6970502,
+    "Notes": 0
+  },
+  {
+    "addressString": "46040 YALE ROAD",
+    "X": -121.9539083,
+    "Y": 49.1702191,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT A - 7544 VEDDER RD",
+    "X": -121.9585767,
+    "Y": 49.1389615,
+    "Notes": 0
+  },
+  {
+    "addressString": "1 - 9701 MENZIES STREET",
+    "X": -121.9339925,
+    "Y": 49.1785023,
+    "Notes": 0
+  },
+  {
+    "addressString": "10 45850 YALE ROAD",
+    "X": -121.9580775,
+    "Y": 49.165711,
+    "Notes": 0
+  },
+  {
+    "addressString": "1000 - 45610 LUCKAKUCK RD",
+    "X": -121.9622942,
+    "Y": 49.1397049,
+    "Notes": 0
+  },
+  {
+    "addressString": "100B/110B - 6640 VEDDER ROAD",
+    "X": -121.9590589,
+    "Y": 49.1239516,
+    "Notes": 0
+  },
+  {
+    "addressString": "201 - 5615 TESKEY WAY",
+    "X": -121.9343513,
+    "Y": 49.1042014,
+    "Notes": 0
+  },
+  {
+    "addressString": "41582 YALE ROAD",
+    "X": -122.0740829,
+    "Y": 49.130055,
+    "Notes": 0
+  },
+  {
+    "addressString": "43971 A INDUSTRIAL WAY",
+    "X": -122.0075632,
+    "Y": 49.145774,
+    "Notes": 0
+  },
+  {
+    "addressString": "45844 YALE ROAD",
+    "X": -121.957786,
+    "Y": 49.1649865,
+    "Notes": 0
+  },
+  {
+    "addressString": "46298 YALE ROAD",
+    "X": -121.9464942,
+    "Y": 49.1727556,
+    "Notes": 0
+  },
+  {
+    "addressString": "5 - 45555 MARKET WAY",
+    "X": -121.9638333,
+    "Y": 49.104703,
+    "Notes": 0
+  },
+  {
+    "addressString": "5865 VEDDER RD",
+    "X": -121.9593659,
+    "Y": 49.1090147,
+    "Notes": 0
+  },
+  {
+    "addressString": "8247 YOUNG ROAD",
+    "X": -121.9521355,
+    "Y": 49.1520169,
+    "Notes": 0
+  },
+  {
+    "addressString": "8559 YOUNG RD",
+    "X": -121.9528808,
+    "Y": 49.1579927,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT F",
+    "X": -128.6711557,
+    "Y": 54.0551979,
+    "Notes": 0
+  },
+  {
+    "addressString": "101/102 53003 BUNKER ROAD",
+    "X": -121.7624261,
+    "Y": 49.1840565,
+    "Notes": 0
+  },
+  {
+    "addressString": "1-74 YOUNG ST",
+    "X": -120.0721159,
+    "Y": 51.6446813,
+    "Notes": 0
+  },
+  {
+    "addressString": "228 EAST YELLOWHEAD HIIGHWAY",
+    "X": -120.0496112,
+    "Y": 51.6472663,
+    "Notes": 0
+  },
+  {
+    "addressString": "1421 CARIBOO HWY",
+    "X": -121.4162064,
+    "Y": 51.2930947,
+    "Notes": 0
+  },
+  {
+    "addressString": "1613 HIGHWAY 97",
+    "X": -119.5648136,
+    "Y": 49.3275598,
+    "Notes": 0
+  },
+  {
+    "addressString": "3566 HOLLAND AVENUE",
+    "X": -123.6032381,
+    "Y": 48.6889266,
+    "Notes": 0
+  },
+  {
+    "addressString": "49 - 1400 COWICHAN BAY RD",
+    "X": -123.6077966,
+    "Y": 48.7109138,
+    "Notes": 0
+  },
+  {
+    "addressString": "12408 KALAMALKA ROAD",
+    "X": -119.2636291,
+    "Y": 50.2298304,
+    "Notes": 0
+  },
+  {
+    "addressString": "107  2244 SOOKE ROAD",
+    "X": -123.4929812,
+    "Y": 48.4348858,
+    "Notes": 0
+  },
+  {
+    "addressString": "310 GOLDSTREAM AVENUE",
+    "X": -123.4705438,
+    "Y": 48.442904,
+    "Notes": 0
+  },
+  {
+    "addressString": "1913 SOOKE ROAD",
+    "X": -123.4703916,
+    "Y": 48.4412227,
+    "Notes": 0
+  },
+  {
+    "addressString": "204 PORT AUGUSTA STREET",
+    "X": -124.9251452,
+    "Y": 49.6738105,
+    "Notes": 0
+  },
+  {
+    "addressString": "1496 RYAN ROAD",
+    "X": -124.9126847,
+    "Y": 49.7155903,
+    "Notes": 0
+  },
+  {
+    "addressString": "3080 COMOX ROAD",
+    "X": -124.9632728,
+    "Y": 49.6791326,
+    "Notes": 0
+  },
+  {
+    "addressString": "649 ANDERTON RD",
+    "X": -124.9349961,
+    "Y": 49.6865649,
+    "Notes": 0
+  },
+  {
+    "addressString": "2484 ALBERNI HWY",
+    "X": -124.4354402,
+    "Y": 49.3023985,
+    "Notes": 0
+  },
+  {
+    "addressString": "1972 COMO LAKE RD",
+    "X": -125.0755155,
+    "Y": 49.6251387,
+    "Notes": 0
+  },
+  {
+    "addressString": "1000 AUSTIN AVE",
+    "X": -122.8672899,
+    "Y": 49.2487167,
+    "Notes": 0
+  },
+  {
+    "addressString": "1125 FALCON DR",
+    "X": -122.8177949,
+    "Y": 49.2795889,
+    "Notes": 0
+  },
+  {
+    "addressString": "140 SCHOOLHOUSE STREET",
+    "X": -122.8530002,
+    "Y": 49.2343153,
+    "Notes": 0
+  },
+  {
+    "addressString": "170 GOLDEN DRIVE",
+    "X": -122.8203808,
+    "Y": 49.2329431,
+    "Notes": 0
+  },
+  {
+    "addressString": 25,
+    "X": -127.662118,
+    "Y": 55.2331208,
+    "Notes": 0
+  },
+  {
+    "addressString": "319 NORTH RD",
+    "X": -122.8908529,
+    "Y": 49.2427243,
+    "Notes": 0
+  },
+  {
+    "addressString": "390 - 1175 JOHNSON ST",
+    "X": -122.8008633,
+    "Y": 49.2822069,
+    "Notes": 0
+  },
+  {
+    "addressString": "405 NORTH RD",
+    "X": -122.8914422,
+    "Y": 49.2466527,
+    "Notes": 0
+  },
+  {
+    "addressString": "541 CLARKE ROAD",
+    "X": -122.8910013,
+    "Y": 49.2612744,
+    "Notes": 0
+  },
+  {
+    "addressString": "935 BRUNETTE ST",
+    "X": -122.8703034,
+    "Y": 49.2375223,
+    "Notes": 0
+  },
+  {
+    "addressString": "940  3025 LOUGHEED HWY",
+    "X": -122.7918636,
+    "Y": 49.2762828,
+    "Notes": 0
+  },
+  {
+    "addressString": "F02/F03 1410 PARKWAY BOULEVARD",
+    "X": -122.8031599,
+    "Y": 49.2960336,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT #11 - 2662 AUSTIN AVE",
+    "X": -122.8172556,
+    "Y": 49.2487192,
+    "Notes": 0
+  },
+  {
+    "addressString": "100 - 580 CLARKE ROAD",
+    "X": -122.887938,
+    "Y": 49.2626171,
+    "Notes": 0
+  },
+  {
+    "addressString": "2168 AUSTIN AVE",
+    "X": -122.8351273,
+    "Y": 49.248704,
+    "Notes": 0
+  },
+  {
+    "addressString": "1095 CLIFFE AVE",
+    "X": -124.995324,
+    "Y": 49.68791,
+    "Notes": 0
+  },
+  {
+    "addressString": "1001 RYAN ROAD",
+    "X": -124.9843346,
+    "Y": 49.6985885,
+    "Notes": 0
+  },
+  {
+    "addressString": "101 - 444 LERWICK RD",
+    "X": -124.9632056,
+    "Y": 49.7101895,
+    "Notes": 0
+  },
+  {
+    "addressString": "1590 CLIFFE AVENUE",
+    "X": -124.9909933,
+    "Y": 49.685622,
+    "Notes": 0
+  },
+  {
+    "addressString": "2355 MANSFIELD DR",
+    "X": -124.9812704,
+    "Y": 49.6779371,
+    "Notes": 0
+  },
+  {
+    "addressString": "275 8TH ST",
+    "X": -124.9970072,
+    "Y": 49.689594,
+    "Notes": 0
+  },
+  {
+    "addressString": "2751 CLIFFE AVENUE",
+    "X": -124.9814706,
+    "Y": 49.6739477,
+    "Notes": 0
+  },
+  {
+    "addressString": "100 - 425 VICTORIA AVE N",
+    "X": -115.7546817,
+    "Y": 49.5160335,
+    "Notes": 0
+  },
+  {
+    "addressString": "21 CRANBROOK STREET NORTH",
+    "X": -115.7683556,
+    "Y": 49.5128515,
+    "Notes": 0
+  },
+  {
+    "addressString": "2100 E/F WILLOWBROOK DRIVE",
+    "X": -115.7501673,
+    "Y": 49.531341,
+    "Notes": 0
+  },
+  {
+    "addressString": "22 - 7TH AVE SOUTH",
+    "X": -115.7713487,
+    "Y": 49.5112211,
+    "Notes": 0
+  },
+  {
+    "addressString": "600 CRANBROOK ST   N",
+    "X": -115.7604604,
+    "Y": 49.5181864,
+    "Notes": 0
+  },
+  {
+    "addressString": "2 - 1000 NW BLVD MALL",
+    "X": -123.1341106,
+    "Y": 55.3110089,
+    "Notes": 0
+  },
+  {
+    "addressString": "1418 CANYON ST",
+    "X": -116.5087119,
+    "Y": 49.0959505,
+    "Notes": 0
+  },
+  {
+    "addressString": "1534 JOAN AVE",
+    "X": -123.6412434,
+    "Y": 48.8644179,
+    "Notes": 0
+  },
+  {
+    "addressString": "3696 COLUMBIA VALLEY HWY",
+    "X": -121.9620709,
+    "Y": 49.069975,
+    "Notes": 0
+  },
+  {
+    "addressString": "2700 DUNSMUIR AVE",
+    "X": -125.0303199,
+    "Y": 49.6191154,
+    "Notes": 0
+  },
+  {
+    "addressString": "2692 DUNSMUIR AVE",
+    "X": -125.0309036,
+    "Y": 49.619064,
+    "Notes": 0
+  },
+  {
+    "addressString": "1020 ALASKA AVE",
+    "X": -120.2285094,
+    "Y": 55.7598635,
+    "Notes": 0
+  },
+  {
+    "addressString": "10100 10TH ST",
+    "X": -120.2278882,
+    "Y": 55.7592945,
+    "Notes": 0
+  },
+  {
+    "addressString": "11705 8TH STREET",
+    "X": -120.2255436,
+    "Y": 55.7436641,
+    "Notes": 0
+  },
+  {
+    "addressString": "12121 8TH ST",
+    "X": -120.2254915,
+    "Y": 55.7381755,
+    "Notes": 0
+  },
+  {
+    "addressString": "1319 H 56TH ST",
+    "X": -123.0687902,
+    "Y": 49.0266854,
+    "Notes": 0
+  },
+  {
+    "addressString": "7017 120TH ST",
+    "X": -122.890468,
+    "Y": 49.1322229,
+    "Notes": 0
+  },
+  {
+    "addressString": "10190 RIVER ROAD",
+    "X": -122.9407128,
+    "Y": 49.1562222,
+    "Notes": 0
+  },
+  {
+    "addressString": "11920 70TH AVE",
+    "X": -122.8923743,
+    "Y": 49.1299771,
+    "Notes": 0
+  },
+  {
+    "addressString": "5449 48TH AVE",
+    "X": -122.7113637,
+    "Y": 58.8022059,
+    "Notes": 0
+  },
+  {
+    "addressString": "6439  120TH ST",
+    "X": -122.8905096,
+    "Y": 49.120097,
+    "Notes": 0
+  },
+  {
+    "addressString": "6574 LADNER TRUNK RD",
+    "X": -123.041501,
+    "Y": 49.0893505,
+    "Notes": 0
+  },
+  {
+    "addressString": "7229  120TH ST",
+    "X": -122.8904506,
+    "Y": 49.135896,
+    "Notes": 0
+  },
+  {
+    "addressString": "8037 120TH ST",
+    "X": -122.891906,
+    "Y": 49.1499576,
+    "Notes": 0
+  },
+  {
+    "addressString": "8473 120TH STREET",
+    "X": -122.8904852,
+    "Y": 49.1571318,
+    "Notes": 0
+  },
+  {
+    "addressString": "8899 120TH STREET",
+    "X": -122.8904499,
+    "Y": 49.1641703,
+    "Notes": 0
+  },
+  {
+    "addressString": "E - 1215  56TH ST",
+    "X": -123.0695053,
+    "Y": 49.0251616,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT 114 - 4857 ELLIOTT STREET",
+    "X": -123.0841464,
+    "Y": 49.0910531,
+    "Notes": 0
+  },
+  {
+    "addressString": "6955 120TH STREET",
+    "X": -122.8908835,
+    "Y": 49.1295151,
+    "Notes": 0
+  },
+  {
+    "addressString": "8310 112TH STREET",
+    "X": -122.9123435,
+    "Y": 49.1546553,
+    "Notes": 0
+  },
+  {
+    "addressString": "8793 RIVER ROAD SOUTH",
+    "X": -122.1963827,
+    "Y": 49.1616563,
+    "Notes": 0
+  },
+  {
+    "addressString": "1-180 CENTRAL ROAD",
+    "X": -124.7108909,
+    "Y": 49.5362415,
+    "Notes": 0
+  },
+  {
+    "addressString": "127 TRANS CANADA HWY",
+    "X": -123.6989728,
+    "Y": 48.7740705,
+    "Notes": 0
+  },
+  {
+    "addressString": "2755 BEVERLY STREET",
+    "X": -123.7081647,
+    "Y": 48.7869529,
+    "Notes": 0
+  },
+  {
+    "addressString": "2900 DRINKWATER ROAD",
+    "X": -123.7160378,
+    "Y": 48.803101,
+    "Notes": 0
+  },
+  {
+    "addressString": "3287 COWICHAN LAKE RD",
+    "X": -123.7351697,
+    "Y": 48.7913362,
+    "Notes": 0
+  },
+  {
+    "addressString": "4485 TRANS CANADA HIGHWAY",
+    "X": -123.6389358,
+    "Y": 48.7294251,
+    "Notes": 0
+  },
+  {
+    "addressString": "6777 BEAUMONT AVENUE",
+    "X": -123.6092936,
+    "Y": 48.8171433,
+    "Notes": 0
+  },
+  {
+    "addressString": "F- 5777 TRANS CANADA HWY",
+    "X": -123.6981152,
+    "Y": 48.7808509,
+    "Notes": 0
+  },
+  {
+    "addressString": "814 MICHEL RD",
+    "X": -114.9201833,
+    "Y": 50.0241923,
+    "Notes": 0
+  },
+  {
+    "addressString": "808 MICHEL RD",
+    "X": -114.9194165,
+    "Y": 50.0250822,
+    "Notes": 0
+  },
+  {
+    "addressString": "119 GEORGE ST",
+    "X": -122.7414533,
+    "Y": 53.9177388,
+    "Notes": 0
+  },
+  {
+    "addressString": "1510 GEORGE STREET",
+    "X": -119.1414082,
+    "Y": 50.555567,
+    "Notes": 0
+  },
+  {
+    "addressString": "900 GEORGE STREET",
+    "X": -119.140325,
+    "Y": 50.5505324,
+    "Notes": 0
+  },
+  {
+    "addressString": "#12 - 1153 ESQUIMALT ROAD",
+    "X": -123.410712,
+    "Y": 48.429483,
+    "Notes": 0
+  },
+  {
+    "addressString": "533 ADMIRALS RD",
+    "X": -123.4165521,
+    "Y": 48.429362,
+    "Notes": 0
+  },
+  {
+    "addressString": "856 ESQUIMALT ROAD",
+    "X": -123.3986932,
+    "Y": 48.4320047,
+    "Notes": 0
+  },
+  {
+    "addressString": "792 2ND AVE",
+    "X": -115.0589887,
+    "Y": 49.5048542,
+    "Notes": 0
+  },
+  {
+    "addressString": "100 RIVERSIDE WAY",
+    "X": -115.0778908,
+    "Y": 49.4870761,
+    "Notes": 0
+  },
+  {
+    "addressString": "1641  7TH AVE",
+    "X": -115.0583644,
+    "Y": 49.5149012,
+    "Notes": 0
+  },
+  {
+    "addressString": "741 HWY 3",
+    "X": -119.7053074,
+    "Y": 49.059362,
+    "Notes": 0
+  },
+  {
+    "addressString": "792 - 2ND AVENUE",
+    "X": -115.0589887,
+    "Y": 49.5048542,
+    "Notes": 0
+  },
+  {
+    "addressString": "5107 AIRPORT DR",
+    "X": -122.6973558,
+    "Y": 58.8069798,
+    "Notes": 0
+  },
+  {
+    "addressString": "3995 50TH AVENUE SOUTH",
+    "X": -122.6776329,
+    "Y": 58.8008902,
+    "Notes": 0
+  },
+  {
+    "addressString": "4204 50TH AVE N",
+    "X": -122.6825735,
+    "Y": 58.8034213,
+    "Notes": 0
+  },
+  {
+    "addressString": "4607-55TH ST",
+    "X": -122.7121408,
+    "Y": 58.8005992,
+    "Notes": 0
+  },
+  {
+    "addressString": "161 STUART DRIVE WEST",
+    "X": -124.2525886,
+    "Y": 54.4422993,
+    "Notes": 0
+  },
+  {
+    "addressString": "1507 STONES BAY ROAD",
+    "X": -124.2760544,
+    "Y": 54.4566757,
+    "Notes": 0
+  },
+  {
+    "addressString": "7- 470 STUART DR W",
+    "X": -124.2583154,
+    "Y": 54.4448497,
+    "Notes": 0
+  },
+  {
+    "addressString": "10444 100TH ST",
+    "X": -120.8475777,
+    "Y": 56.2507359,
+    "Notes": 0
+  },
+  {
+    "addressString": "10419 ALASKA ROAD",
+    "X": -120.8552539,
+    "Y": 56.2385888,
+    "Notes": 0
+  },
+  {
+    "addressString": "10688 ALDER RD",
+    "X": -124.2188158,
+    "Y": 48.8759194,
+    "Notes": 0
+  },
+  {
+    "addressString": "11004/11008 100TH AVENUE",
+    "X": -122.8296463,
+    "Y": 49.1840797,
+    "Notes": 0
+  },
+  {
+    "addressString": "5 - 10440 100TH ST",
+    "X": -120.6832084,
+    "Y": 56.1527513,
+    "Notes": 0
+  },
+  {
+    "addressString": "8155 - 100TH AVENUE",
+    "X": -120.8130723,
+    "Y": 56.2461696,
+    "Notes": 0
+  },
+  {
+    "addressString": "8540 ALASKA RD",
+    "X": -120.8204261,
+    "Y": 56.2295595,
+    "Notes": 0
+  },
+  {
+    "addressString": "9803 93RD AVENUE",
+    "X": -120.8444881,
+    "Y": 56.2386112,
+    "Notes": 0
+  },
+  {
+    "addressString": "9103/9107 100TH AVENUE",
+    "X": -122.8296463,
+    "Y": 49.1840797,
+    "Notes": 0
+  },
+  {
+    "addressString": "111 CHOWSUNKET AVE",
+    "X": -124.852502,
+    "Y": 54.0554377,
+    "Notes": 0
+  },
+  {
+    "addressString": "111 CHOWSUNKET ST",
+    "X": -124.852502,
+    "Y": 54.0554377,
+    "Notes": 0
+  },
+  {
+    "addressString": "1952 COLUMBIA GARDEN RD",
+    "X": -117.5421215,
+    "Y": 49.1150407,
+    "Notes": 0
+  },
+  {
+    "addressString": "1867 HIGHWAY DRIVE",
+    "X": -117.6815465,
+    "Y": 49.0985675,
+    "Notes": 0
+  },
+  {
+    "addressString": "548 NORTH ROAD",
+    "X": -123.846702,
+    "Y": 49.1742894,
+    "Notes": 0
+  },
+  {
+    "addressString": "3383 SOUTH ROAD",
+    "X": -123.7007179,
+    "Y": 49.1495928,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT 3 - 377 BERRY POINT ROAD",
+    "X": -123.8554795,
+    "Y": 49.1926007,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT 4 - 575 NORTH ROAD",
+    "X": -123.8450289,
+    "Y": 49.1733556,
+    "Notes": 0
+  },
+  {
+    "addressString": "134 MADRONA DRIVE",
+    "X": -123.3182525,
+    "Y": 48.8773937,
+    "Notes": 0
+  },
+  {
+    "addressString": "4958 LYONS RD",
+    "X": -124.0279376,
+    "Y": 49.6323542,
+    "Notes": 0
+  },
+  {
+    "addressString": "40330 TANTALUS WAY",
+    "X": -123.133906,
+    "Y": 49.7395034,
+    "Notes": 0
+  },
+  {
+    "addressString": "18 - 900 GIBSONS WAY",
+    "X": -123.5192721,
+    "Y": 49.40813,
+    "Notes": 0
+  },
+  {
+    "addressString": "412 MARINE DR",
+    "X": -123.50497,
+    "Y": 49.4016914,
+    "Notes": 0
+  },
+  {
+    "addressString": "966 VENTURE WAY",
+    "X": -123.5240921,
+    "Y": 49.4073026,
+    "Notes": 0
+  },
+  {
+    "addressString": "101 - 1100 SUNSHINE COAST HIGHWAY",
+    "X": -123.5306643,
+    "Y": 49.4082475,
+    "Notes": 0
+  },
+  {
+    "addressString": "375 NIMPKISH ST",
+    "X": -126.0510245,
+    "Y": 49.7794581,
+    "Notes": 0
+  },
+  {
+    "addressString": "4  390 MUCHALAT DRIVE",
+    "X": -126.04966,
+    "Y": 49.7791992,
+    "Notes": 0
+  },
+  {
+    "addressString": "906 10TH AVE S",
+    "X": -116.9625437,
+    "Y": 51.2957752,
+    "Notes": 0
+  },
+  {
+    "addressString": "1049 TRANS CANADA HWY N",
+    "X": -119.6853103,
+    "Y": 50.8223092,
+    "Notes": 0
+  },
+  {
+    "addressString": "1203 9TH ST S",
+    "X": -116.9583936,
+    "Y": 51.2964464,
+    "Notes": 0
+  },
+  {
+    "addressString": "451 CENTRAL AVE",
+    "X": -123.4940972,
+    "Y": 49.4131141,
+    "Notes": 0
+  },
+  {
+    "addressString": "1675 CENTRAL AVENUE",
+    "X": -118.4578272,
+    "Y": 49.0297406,
+    "Notes": 0
+  },
+  {
+    "addressString": "425 CENTRAL AVE",
+    "X": -123.4934281,
+    "Y": 49.4131848,
+    "Notes": 0
+  },
+  {
+    "addressString": "272 S COPPER RD",
+    "X": -120.5002741,
+    "Y": 49.4578164,
+    "Notes": 0
+  },
+  {
+    "addressString": "222 CEDAR AVENUE",
+    "X": -130.288124,
+    "Y": 54.2186363,
+    "Notes": 0
+  },
+  {
+    "addressString": "889 HOT SPRINGS ROAD",
+    "X": -121.7802971,
+    "Y": 49.2849195,
+    "Notes": 0
+  },
+  {
+    "addressString": "46001 LOUGHEED HWY",
+    "X": -121.9600877,
+    "Y": 49.253227,
+    "Notes": 0
+  },
+  {
+    "addressString": "4330 FIELD ST.",
+    "X": -127.6755747,
+    "Y": 55.2560412,
+    "Notes": 0
+  },
+  {
+    "addressString": "1520 OMENICA STREET",
+    "X": -128.6603958,
+    "Y": 54.045046,
+    "Notes": 0
+  },
+  {
+    "addressString": "39040  HWY 97 SOUTH",
+    "X": -122.5877569,
+    "Y": 53.4250483,
+    "Notes": 0
+  },
+  {
+    "addressString": "770 5TH ST",
+    "X": -132.0896788,
+    "Y": 53.2555225,
+    "Notes": 0
+  },
+  {
+    "addressString": "272 WALLACE STREET",
+    "X": -121.4422027,
+    "Y": 49.3788015,
+    "Notes": 0
+  },
+  {
+    "addressString": "583 B OLD HOPE PRINCETON WAY",
+    "X": -121.4304032,
+    "Y": 49.3756446,
+    "Notes": 0
+  },
+  {
+    "addressString": "629 OLD HOPE PRINCETON WAY",
+    "X": -121.4284024,
+    "Y": 49.3760281,
+    "Notes": 0
+  },
+  {
+    "addressString": "4325 SHINGLE SPIT ROAD",
+    "X": -124.7047258,
+    "Y": 49.511887,
+    "Notes": 0
+  },
+  {
+    "addressString": "3232 HWY 16",
+    "X": -127.1527079,
+    "Y": 54.7738342,
+    "Notes": 0
+  },
+  {
+    "addressString": "2800 YELLOWHEAD HWY",
+    "X": -128.562885,
+    "Y": 54.5117605,
+    "Notes": 0
+  },
+  {
+    "addressString": "3401 - 1TH ST",
+    "X": -120.0762737,
+    "Y": 49.3594708,
+    "Notes": 0
+  },
+  {
+    "addressString": "10328 GETHING ST",
+    "X": -121.9120863,
+    "Y": 56.0277045,
+    "Notes": 0
+  },
+  {
+    "addressString": "10101 BEATTIE DRIVE",
+    "X": -121.9191911,
+    "Y": 56.0282521,
+    "Notes": 0
+  },
+  {
+    "addressString": "510 13TH ST",
+    "X": -116.0254261,
+    "Y": 50.5040032,
+    "Notes": 0
+  },
+  {
+    "addressString": "1310 7TH AVENUE",
+    "X": -122.9342039,
+    "Y": 49.2075593,
+    "Notes": 0
+  },
+  {
+    "addressString": "4860 ATHALMER ROAD",
+    "X": -116.0090698,
+    "Y": 50.5155195,
+    "Notes": 0
+  },
+  {
+    "addressString": "2359 HIGHWAY 3/93",
+    "X": -117.6815456,
+    "Y": 49.0984428,
+    "Notes": 0
+  },
+  {
+    "addressString": "19 - 3435 WESTSYDE RD",
+    "X": -120.3419709,
+    "Y": 50.7719423,
+    "Notes": 0
+  },
+  {
+    "addressString": "600 - 1210 SUMMIT DR",
+    "X": -120.3512741,
+    "Y": 50.6662086,
+    "Notes": 0
+  },
+  {
+    "addressString": "78-700 TRANQUILLE RD",
+    "X": -120.3608444,
+    "Y": 50.6972092,
+    "Notes": 0
+  },
+  {
+    "addressString": "1 - 1800 TRANQUILLE ROAD",
+    "X": -120.3939456,
+    "Y": 50.7007539,
+    "Notes": 0
+  },
+  {
+    "addressString": "105 - 795 MCGILL ROAD",
+    "X": -120.3603797,
+    "Y": 50.6678966,
+    "Notes": 0
+  },
+  {
+    "addressString": "1050  8TH ST",
+    "X": -125.0068341,
+    "Y": 49.6840231,
+    "Notes": 0
+  },
+  {
+    "addressString": "1250 ROGERS WAY",
+    "X": -120.3724145,
+    "Y": 50.6516198,
+    "Notes": 0
+  },
+  {
+    "addressString": "1271 C SALISH ROAD",
+    "X": -123.6331398,
+    "Y": 48.7937632,
+    "Notes": 0
+  },
+  {
+    "addressString": "1380 HILLSIDE DRIVE",
+    "X": -120.3759313,
+    "Y": 50.6548748,
+    "Notes": 0
+  },
+  {
+    "addressString": "1430 SUMMIT DRIVE",
+    "X": -120.3437528,
+    "Y": 50.6596074,
+    "Notes": 0
+  },
+  {
+    "addressString": "1626 VALLEYVIEW DR",
+    "X": -120.2947031,
+    "Y": 50.672494,
+    "Notes": 0
+  },
+  {
+    "addressString": "1821 TRANS CANADA HWY E",
+    "X": -120.2817566,
+    "Y": 50.6784076,
+    "Notes": 0
+  },
+  {
+    "addressString": "2 - 177 TRANQUILLE ROAD",
+    "X": -120.3546896,
+    "Y": 50.6847206,
+    "Notes": 0
+  },
+  {
+    "addressString": "20 - 945 W  COLUMBIA ST",
+    "X": -120.353697,
+    "Y": 50.6685101,
+    "Notes": 0
+  },
+  {
+    "addressString": "225 - 450 LANSDOWNE STREET",
+    "X": -120.3283645,
+    "Y": 50.6768619,
+    "Notes": 0
+  },
+  {
+    "addressString": "3020 WESTSYDE ROAD",
+    "X": -120.3492041,
+    "Y": 50.7602548,
+    "Notes": 0
+  },
+  {
+    "addressString": "3369 WESTSYDE RD",
+    "X": -120.342948,
+    "Y": 50.7704185,
+    "Notes": 0
+  },
+  {
+    "addressString": "339 ST. PAUL STREET",
+    "X": -120.3333064,
+    "Y": 50.6738803,
+    "Notes": 0
+  },
+  {
+    "addressString": "363 TRANQUILLE RD",
+    "X": -120.3582924,
+    "Y": 50.6889817,
+    "Notes": 0
+  },
+  {
+    "addressString": "402 - 1801 PRINCETON - KAMLOOPS HWY",
+    "X": -120.3667409,
+    "Y": 50.6525909,
+    "Notes": 0
+  },
+  {
+    "addressString": "405 VICTORIA ST",
+    "X": -120.3317511,
+    "Y": 50.6756368,
+    "Notes": 0
+  },
+  {
+    "addressString": "4309 OLD YELLOWHEAD HIGHWAY NO.5",
+    "X": -127.1263495,
+    "Y": 56.4522813,
+    "Notes": 0
+  },
+  {
+    "addressString": "490 PAUL LAKE ROAD",
+    "X": -120.3297968,
+    "Y": 50.6740688,
+    "Notes": 0
+  },
+  {
+    "addressString": "5220 BOGETTI PL",
+    "X": -120.181872,
+    "Y": 50.6683215,
+    "Notes": 0
+  },
+  {
+    "addressString": "726 SYDNEY AVENUE",
+    "X": -122.8811189,
+    "Y": 49.2478357,
+    "Notes": 0
+  },
+  {
+    "addressString": "8  2101 EAST TRANS CANADA HIGHWAY",
+    "X": -120.2673674,
+    "Y": 50.6799991,
+    "Notes": 0
+  },
+  {
+    "addressString": "843 DESMOND ST",
+    "X": -120.3928335,
+    "Y": 50.7010475,
+    "Notes": 0
+  },
+  {
+    "addressString": "410 FRONT ST",
+    "X": -116.9042701,
+    "Y": 49.9122129,
+    "Notes": 0
+  },
+  {
+    "addressString": "109 - 1835 DILWORTH DR",
+    "X": -119.4363535,
+    "Y": 49.8807876,
+    "Notes": 0
+  },
+  {
+    "addressString": "35 - 3155 LAKESHORE RD",
+    "X": -119.4899019,
+    "Y": 49.8598843,
+    "Notes": 0
+  },
+  {
+    "addressString": "102 - 1940 KANE ROAD",
+    "X": -119.4434085,
+    "Y": 49.9158976,
+    "Notes": 0
+  },
+  {
+    "addressString": "102- 1789 K.L.O. ROAD",
+    "X": -119.4576766,
+    "Y": 49.8605855,
+    "Notes": 0
+  },
+  {
+    "addressString": "103 - 3699 HWY 97 NORTH",
+    "X": -119.3893318,
+    "Y": 49.9158784,
+    "Notes": 0
+  },
+  {
+    "addressString": "104 5315 MAIN ST",
+    "X": -119.5118648,
+    "Y": 49.7945386,
+    "Notes": 0
+  },
+  {
+    "addressString": "106  2395 GORDON DRIVE",
+    "X": -119.4746967,
+    "Y": 49.8716743,
+    "Notes": 0
+  },
+  {
+    "addressString": "107 - 1135 STEVENS ROAD",
+    "X": -119.5630419,
+    "Y": 49.8653581,
+    "Notes": 0
+  },
+  {
+    "addressString": "107/108/109 1677 COMMERCE AVE",
+    "X": -119.4174853,
+    "Y": 49.8932092,
+    "Notes": 0
+  },
+  {
+    "addressString": "110/120 - 5507 AIRPORT WAY",
+    "X": -119.3883839,
+    "Y": 49.9513758,
+    "Notes": 0
+  },
+  {
+    "addressString": "1171 HARVEY AVE",
+    "X": -119.4744994,
+    "Y": 49.8825242,
+    "Notes": 0
+  },
+  {
+    "addressString": "1175 ELLIS ST",
+    "X": -119.4927041,
+    "Y": 49.8939883,
+    "Notes": 0
+  },
+  {
+    "addressString": "1310 WATER STREET",
+    "X": -119.4975334,
+    "Y": 49.8910897,
+    "Notes": 0
+  },
+  {
+    "addressString": "150- 525 HWY 97 S",
+    "X": -119.6060793,
+    "Y": 49.4083765,
+    "Notes": 0
+  },
+  {
+    "addressString": "19-590 HWY 33",
+    "X": -119.398032,
+    "Y": 49.8900666,
+    "Notes": 0
+  },
+  {
+    "addressString": "1973 HARVEY AVENUE",
+    "X": -119.45145,
+    "Y": 49.8813877,
+    "Notes": 0
+  },
+  {
+    "addressString": "1978 KIRSCHNER RD",
+    "X": -119.458927,
+    "Y": 49.8779828,
+    "Notes": 0
+  },
+  {
+    "addressString": "2  4600 LAKESHORE DRIVE",
+    "X": -119.436614,
+    "Y": 49.0221177,
+    "Notes": 0
+  },
+  {
+    "addressString": "200 - 210 HIGHWAY 33 WEST",
+    "X": -119.389842,
+    "Y": 49.8890326,
+    "Notes": 0
+  },
+  {
+    "addressString": "2170 HARVEY AVE",
+    "X": -119.4387508,
+    "Y": 49.8825837,
+    "Notes": 0
+  },
+  {
+    "addressString": "2789 K L O  RD",
+    "X": -119.7790217,
+    "Y": 51.5862739,
+    "Notes": 0
+  },
+  {
+    "addressString": "319 QUEENSWAY AVE",
+    "X": -119.4959317,
+    "Y": 49.8870856,
+    "Notes": 0
+  },
+  {
+    "addressString": "3195 LAKESHORE ROAD",
+    "X": -119.4900317,
+    "Y": 49.8587854,
+    "Notes": 0
+  },
+  {
+    "addressString": "3929 LAKESHORE RD",
+    "X": -119.4875061,
+    "Y": 49.8422125,
+    "Notes": 0
+  },
+  {
+    "addressString": "663 FINNS RD",
+    "X": -119.3985388,
+    "Y": 49.9077983,
+    "Notes": 0
+  },
+  {
+    "addressString": "PAD D - 1500 BANKS ROAD",
+    "X": -119.427569,
+    "Y": 49.8877275,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT D220",
+    "X": -122.6128622,
+    "Y": 49.2229033,
+    "Notes": 0
+  },
+  {
+    "addressString": "105-975 ACADEMY WAY",
+    "X": -119.3991534,
+    "Y": 49.9356311,
+    "Notes": 0
+  },
+  {
+    "addressString": "851 ANDERS ROAD",
+    "X": -119.5511512,
+    "Y": 49.8597002,
+    "Notes": 0
+  },
+  {
+    "addressString": "609 7TH AVENUE",
+    "X": -119.8244137,
+    "Y": 49.2048755,
+    "Notes": 0
+  },
+  {
+    "addressString": "715 7TH STREET",
+    "X": -119.8224614,
+    "Y": 49.2044744,
+    "Notes": 0
+  },
+  {
+    "addressString": "425 MARK ST",
+    "X": -115.9818896,
+    "Y": 49.6836051,
+    "Notes": 0
+  },
+  {
+    "addressString": "400 ROSS ST.",
+    "X": -115.9816449,
+    "Y": 49.6839848,
+    "Notes": 0
+  },
+  {
+    "addressString": "447  304TH ST",
+    "X": -115.9589133,
+    "Y": 49.6362058,
+    "Notes": 0
+  },
+  {
+    "addressString": "550 MOUNTAIN VIEW SQUARE",
+    "X": -124.0498863,
+    "Y": 48.8380025,
+    "Notes": 0
+  },
+  {
+    "addressString": "178 NECHAKO CENTER",
+    "X": -124.5594127,
+    "Y": 49.8924124,
+    "Notes": 0
+  },
+  {
+    "addressString": "225  276 CITY CENTRE",
+    "X": -125.2246904,
+    "Y": 49.9722042,
+    "Notes": 0
+  },
+  {
+    "addressString": "506 ENTERPRISE AVE",
+    "X": -128.6877229,
+    "Y": 54.0600835,
+    "Notes": 0
+  },
+  {
+    "addressString": "874 TSIMSHIAN BLVD",
+    "X": -128.6502508,
+    "Y": 54.0542233,
+    "Notes": 0
+  },
+  {
+    "addressString": "5202  48TH AVE",
+    "X": -122.7047646,
+    "Y": 58.8022034,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT 7 - 370 TRANS CANADA HWY",
+    "X": -123.7926811,
+    "Y": 48.9696885,
+    "Notes": 0
+  },
+  {
+    "addressString": "1010  1ST AVE",
+    "X": -132.0979778,
+    "Y": 53.256738,
+    "Notes": 0
+  },
+  {
+    "addressString": "1680 TIMBERLANDS RD",
+    "X": -123.8832399,
+    "Y": 49.0437064,
+    "Notes": 0
+  },
+  {
+    "addressString": "72  9522 MAIN STREET",
+    "X": -119.4052427,
+    "Y": 50.0209291,
+    "Notes": 0
+  },
+  {
+    "addressString": "9882 HWY 97",
+    "X": -122.0061213,
+    "Y": 55.61299,
+    "Notes": 0
+  },
+  {
+    "addressString": "11850 OCEOLA ROAD",
+    "X": -119.4114055,
+    "Y": 50.0545503,
+    "Notes": 0
+  },
+  {
+    "addressString": "93 DARNEL RD",
+    "X": -124.0519332,
+    "Y": 48.8276375,
+    "Notes": 0
+  },
+  {
+    "addressString": "56 NORTH SHORE RD",
+    "X": -124.0528977,
+    "Y": 48.8267278,
+    "Notes": 0
+  },
+  {
+    "addressString": "104 2778 PEATT ROAD",
+    "X": -123.5004427,
+    "Y": 48.4503511,
+    "Notes": 0
+  },
+  {
+    "addressString": "2020 COUNTRY CLUB WAY",
+    "X": -123.5320985,
+    "Y": 48.4770591,
+    "Notes": 0
+  },
+  {
+    "addressString": "2835 BRYN MAUR ROAD",
+    "X": -123.49926,
+    "Y": 48.4474362,
+    "Notes": 0
+  },
+  {
+    "addressString": "2903 SOOKE LAKE ROAD",
+    "X": -123.5537332,
+    "Y": 48.4590704,
+    "Notes": 0
+  },
+  {
+    "addressString": "975 LANGFORD PARKWAY",
+    "X": -123.5150103,
+    "Y": 48.4424132,
+    "Notes": 0
+  },
+  {
+    "addressString": "2792 PEATT RD",
+    "X": -123.5007048,
+    "Y": 48.4499191,
+    "Notes": 0
+  },
+  {
+    "addressString": "501 - 8840 210TH ST",
+    "X": -122.6364148,
+    "Y": 49.1631349,
+    "Notes": 0
+  },
+  {
+    "addressString": "6435 201 ST",
+    "X": -122.6664957,
+    "Y": 49.1196294,
+    "Notes": 0
+  },
+  {
+    "addressString": "9110 GLOVER RD",
+    "X": -122.5797283,
+    "Y": 49.1677951,
+    "Notes": 0
+  },
+  {
+    "addressString": "#101 - 20151 FRASER HIGHWAY",
+    "X": -122.6621234,
+    "Y": 49.1070529,
+    "Notes": 0
+  },
+  {
+    "addressString": "100-19665 WILLOWBROOK DRIVE",
+    "X": -122.6793644,
+    "Y": 49.1168333,
+    "Notes": 0
+  },
+  {
+    "addressString": "101 - 22071  48A AVE",
+    "X": -122.611793,
+    "Y": 49.0904547,
+    "Notes": 0
+  },
+  {
+    "addressString": "19935 96TH AVE",
+    "X": -122.6689769,
+    "Y": 49.1770551,
+    "Notes": 0
+  },
+  {
+    "addressString": "20470 88 AVE",
+    "X": -122.6550192,
+    "Y": 49.161807,
+    "Notes": 0
+  },
+  {
+    "addressString": "230-7150 200TH STREET",
+    "X": -122.6675455,
+    "Y": 49.1328219,
+    "Notes": 0
+  },
+  {
+    "addressString": "2364 200TH ST",
+    "X": -122.668739,
+    "Y": 49.0451929,
+    "Notes": 0
+  },
+  {
+    "addressString": "27 - 20821 FRASER HIGHWAY",
+    "X": -122.6463201,
+    "Y": 49.1020822,
+    "Notes": 0
+  },
+  {
+    "addressString": "4070 200TH STREET",
+    "X": -122.6693723,
+    "Y": 49.0764461,
+    "Notes": 0
+  },
+  {
+    "addressString": "4143  208 ST",
+    "X": -122.6481382,
+    "Y": 49.0772591,
+    "Notes": 0
+  },
+  {
+    "addressString": "8399  200 STREET",
+    "X": -122.6688084,
+    "Y": 49.1549302,
+    "Notes": 0
+  },
+  {
+    "addressString": "8855 - 202ND STREET",
+    "X": -122.6609332,
+    "Y": 49.1637949,
+    "Notes": 0
+  },
+  {
+    "addressString": "A110- 20678 WILLOUGHBY TOWN CENTRE DR",
+    "X": -122.6493482,
+    "Y": 49.1455003,
+    "Notes": 0
+  },
+  {
+    "addressString": "24990 36 AVENUE",
+    "X": -122.5317733,
+    "Y": 49.0662081,
+    "Notes": 0
+  },
+  {
+    "addressString": "3986-248TH STREET",
+    "X": -122.5364285,
+    "Y": 49.0741204,
+    "Notes": 0
+  },
+  {
+    "addressString": "6810 GLOVER ROAD",
+    "X": -122.6248672,
+    "Y": 49.126051,
+    "Notes": 0
+  },
+  {
+    "addressString": "7197 LANTZVILLE RD",
+    "X": -124.0760841,
+    "Y": 49.2497159,
+    "Notes": 0
+  },
+  {
+    "addressString": "155 MAIN ST",
+    "X": -123.5042621,
+    "Y": 48.8898598,
+    "Notes": 0
+  },
+  {
+    "addressString": "1237 MAIN ST",
+    "X": -121.9370415,
+    "Y": 50.6862918,
+    "Notes": 0
+  },
+  {
+    "addressString": "667 MAIN ST",
+    "X": -121.9354665,
+    "Y": 50.6929082,
+    "Notes": 0
+  },
+  {
+    "addressString": "10 - 150 OPAL DR",
+    "X": -120.8134874,
+    "Y": 50.4937087,
+    "Notes": 0
+  },
+  {
+    "addressString": "111 CHARTRAND AVENUE",
+    "X": -120.813943,
+    "Y": 50.4931812,
+    "Notes": 0
+  },
+  {
+    "addressString": "264 POPLAR DR",
+    "X": -120.8107291,
+    "Y": 50.4851734,
+    "Notes": 0
+  },
+  {
+    "addressString": "2319 ABERDEEN ROAD",
+    "X": -120.8803479,
+    "Y": 50.1521115,
+    "Notes": 0
+  },
+  {
+    "addressString": "2080 VERNON ST",
+    "X": -123.6593717,
+    "Y": 48.869091,
+    "Notes": 0
+  },
+  {
+    "addressString": "1643 VERNON ST",
+    "X": -118.9586826,
+    "Y": 50.2497313,
+    "Notes": 0
+  },
+  {
+    "addressString": "2004 SHUSWAP AVE",
+    "X": -118.9662919,
+    "Y": 50.2476942,
+    "Notes": 0
+  },
+  {
+    "addressString": "403 MACKENZIE BLVD",
+    "X": -123.0927054,
+    "Y": 55.3391847,
+    "Notes": 0
+  },
+  {
+    "addressString": "403 MACKENZIE BLVD",
+    "X": -123.0927054,
+    "Y": 55.3391847,
+    "Notes": 0
+  },
+  {
+    "addressString": "1 - 12887 MADEIRA PARK RD",
+    "X": -124.0247147,
+    "Y": 49.6201115,
+    "Notes": 0
+  },
+  {
+    "addressString": "12671 SUNSHINE COAST HIGHWAY",
+    "X": -124.0205551,
+    "Y": 49.6230262,
+    "Notes": 0
+  },
+  {
+    "addressString": "300 - 22709 LOUGHEED HWY",
+    "X": -122.5918702,
+    "Y": 49.2176313,
+    "Notes": 0
+  },
+  {
+    "addressString": "11232 DARTFORD ST",
+    "X": -122.6492814,
+    "Y": 49.2066157,
+    "Notes": 0
+  },
+  {
+    "addressString": "12968 232 STREET",
+    "X": -122.5789339,
+    "Y": 49.2374274,
+    "Notes": 0
+  },
+  {
+    "addressString": "160- 20398 DEWDNEY TRUNK RD",
+    "X": -122.654972,
+    "Y": 49.2208853,
+    "Notes": 0
+  },
+  {
+    "addressString": "20690 LOUGHEED HWY",
+    "X": -122.6486988,
+    "Y": 49.2179511,
+    "Notes": 0
+  },
+  {
+    "addressString": "21525 DEWDNEY TRUNK RD",
+    "X": -122.6249538,
+    "Y": 49.2211396,
+    "Notes": 0
+  },
+  {
+    "addressString": "21755 LOUGHEED HWY",
+    "X": -122.6188769,
+    "Y": 49.2174028,
+    "Notes": 0
+  },
+  {
+    "addressString": "22222 LOUGHEED HWY",
+    "X": -122.6062455,
+    "Y": 49.2164155,
+    "Notes": 0
+  },
+  {
+    "addressString": "22648 DEWDNEY TRUNK RD",
+    "X": -122.5948516,
+    "Y": 49.2203766,
+    "Notes": 0
+  },
+  {
+    "addressString": "23988 DEWDNEY TRUNK ROAD",
+    "X": -122.5575312,
+    "Y": 49.2200222,
+    "Notes": 0
+  },
+  {
+    "addressString": "9610 287 ST",
+    "X": -122.4277649,
+    "Y": 49.1771371,
+    "Notes": 0
+  },
+  {
+    "addressString": "2072 COLLISON AVE",
+    "X": -132.1489148,
+    "Y": 54.0119336,
+    "Notes": 0
+  },
+  {
+    "addressString": "494 ARBUTUS DRIVE",
+    "X": -123.2501889,
+    "Y": 48.8448743,
+    "Notes": 0
+  },
+  {
+    "addressString": "500 ROBSON CENTRE",
+    "X": -123.1183093,
+    "Y": 49.2801716,
+    "Notes": 0
+  },
+  {
+    "addressString": "104 - 1700 GARCIA ST",
+    "X": -120.788474,
+    "Y": 50.1075008,
+    "Notes": 0
+  },
+  {
+    "addressString": "2350 VOGHT ST",
+    "X": -120.7866752,
+    "Y": 50.1138067,
+    "Notes": 0
+  },
+  {
+    "addressString": "3623 DEWOLF WAY",
+    "X": -120.7626676,
+    "Y": 50.1241412,
+    "Notes": 0
+  },
+  {
+    "addressString": "QUILCHENA & VOGHT STREETS",
+    "X": -120.7894899,
+    "Y": 50.1102002,
+    "Notes": 0
+  },
+  {
+    "addressString": "270 - 2720 MILL BAY RD",
+    "X": -123.558511,
+    "Y": 48.6514031,
+    "Notes": 0
+  },
+  {
+    "addressString": "#108 & #109 2690 MILL BAY RD",
+    "X": -120.8621362,
+    "Y": 56.2533286,
+    "Notes": 0
+  },
+  {
+    "addressString": "207 - 32530 LOUGHEED HWY",
+    "X": -122.3214172,
+    "Y": 49.132361,
+    "Notes": 0
+  },
+  {
+    "addressString": "32516 14TH AVE",
+    "X": -122.3242598,
+    "Y": 49.1471065,
+    "Notes": 0
+  },
+  {
+    "addressString": "33395 FIRST AVENUE",
+    "X": -122.3003623,
+    "Y": 49.1346819,
+    "Notes": 0
+  },
+  {
+    "addressString": "7160 OLIVER ST",
+    "X": -122.3418759,
+    "Y": 49.1322493,
+    "Notes": 0
+  },
+  {
+    "addressString": "740  32555 LONDON AVENUE",
+    "X": -122.3190152,
+    "Y": 49.1302215,
+    "Notes": 0
+  },
+  {
+    "addressString": "A16- 7871 STAVE LAKE ST",
+    "X": -122.2922405,
+    "Y": 49.1453814,
+    "Notes": 0
+  },
+  {
+    "addressString": "87 5TH AVE W",
+    "X": -123.1049505,
+    "Y": 49.2665364,
+    "Notes": 0
+  },
+  {
+    "addressString": "515 BROADWAY ST",
+    "X": -123.3959355,
+    "Y": 48.4722161,
+    "Notes": 0
+  },
+  {
+    "addressString": "115 - 650 SOUTH TERMINAL AVE",
+    "X": -123.9345133,
+    "Y": 49.1638031,
+    "Notes": 0
+  },
+  {
+    "addressString": "1533 ESTEVAN RD",
+    "X": -123.9564337,
+    "Y": 49.1851549,
+    "Notes": 0
+  },
+  {
+    "addressString": "3 - 5765 TURNER RD",
+    "X": -124.0355918,
+    "Y": 49.2254271,
+    "Notes": 0
+  },
+  {
+    "addressString": "# 400 - 530  5TH STREET",
+    "X": -123.9510143,
+    "Y": 49.1560982,
+    "Notes": 0
+  },
+  {
+    "addressString": "#1 - 6404 METRAL DRIVE",
+    "X": -124.0416403,
+    "Y": 49.2314704,
+    "Notes": 0
+  },
+  {
+    "addressString": "1 TERMINAL AVE",
+    "X": -123.9409945,
+    "Y": 49.1701495,
+    "Notes": 0
+  },
+  {
+    "addressString": "10  1273 ISLAND HWY SOUTH",
+    "X": -125.2245771,
+    "Y": 49.9857759,
+    "Notes": 0
+  },
+  {
+    "addressString": "101-4750 HAMMOND BAY ROAD",
+    "X": -123.9787082,
+    "Y": 49.2314466,
+    "Notes": 0
+  },
+  {
+    "addressString": "129  4750 RUTHERFORD ROAD",
+    "X": -124.0289845,
+    "Y": 49.2178527,
+    "Notes": 0
+  },
+  {
+    "addressString": "14  2220 BOWEN ROAD",
+    "X": -123.9916376,
+    "Y": 49.1929931,
+    "Notes": 0
+  },
+  {
+    "addressString": "1431 BOWEN ROAD",
+    "X": -123.9697313,
+    "Y": 49.1770724,
+    "Notes": 0
+  },
+  {
+    "addressString": "1594 MACMILLAN ROAD",
+    "X": -123.8639202,
+    "Y": 49.1158156,
+    "Notes": 0
+  },
+  {
+    "addressString": "1724 STEWART AVE",
+    "X": -123.9505789,
+    "Y": 49.1879272,
+    "Notes": 0
+  },
+  {
+    "addressString": "1850 DUFFERIN CRESCENT",
+    "X": -123.9843491,
+    "Y": 49.1832383,
+    "Notes": 0
+  },
+  {
+    "addressString": "1866 CEDAR RD",
+    "X": -123.8596687,
+    "Y": 49.1057537,
+    "Notes": 0
+  },
+  {
+    "addressString": "2211 JINGLE POT ROAD",
+    "X": -123.9876125,
+    "Y": 49.1689412,
+    "Notes": 0
+  },
+  {
+    "addressString": "278 SELBY ST",
+    "X": -123.9425783,
+    "Y": 49.1658425,
+    "Notes": 0
+  },
+  {
+    "addressString": "2875 DEPARTURE BAY ROAD",
+    "X": -123.9703846,
+    "Y": 49.2058211,
+    "Notes": 0
+  },
+  {
+    "addressString": "2954 TRANS CANADA HIGHWAY",
+    "X": -123.5595903,
+    "Y": 48.6625919,
+    "Notes": 0
+  },
+  {
+    "addressString": "3296 ISLAND HIGHWAY NORTH",
+    "X": -124.9907674,
+    "Y": 49.7028181,
+    "Notes": 0
+  },
+  {
+    "addressString": "3956 VICTORIA AVE",
+    "X": -124.0138947,
+    "Y": 49.2077366,
+    "Notes": 0
+  },
+  {
+    "addressString": "514 HALIBURTON ST",
+    "X": -123.9328853,
+    "Y": 49.1538949,
+    "Notes": 0
+  },
+  {
+    "addressString": "5775 TURNER RD",
+    "X": -124.0363334,
+    "Y": 49.2250068,
+    "Notes": 0
+  },
+  {
+    "addressString": "BUILDING D",
+    "X": -129.4725321,
+    "Y": 55.0633926,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT #3  508 8TH STREET",
+    "X": -123.9507214,
+    "Y": 49.1440392,
+    "Notes": 0
+  },
+  {
+    "addressString": "120 - 2000 ISLAND HWY",
+    "X": -125.2735113,
+    "Y": 50.0335305,
+    "Notes": 0
+  },
+  {
+    "addressString": "2414 ISLAND HIGHWAY EAST",
+    "X": -124.196812,
+    "Y": 49.2608359,
+    "Notes": 0
+  },
+  {
+    "addressString": "3521 DOLPHIN DRIVE",
+    "X": -124.1354407,
+    "Y": 49.2864275,
+    "Notes": 0
+  },
+  {
+    "addressString": "2443 COLLINS CRES",
+    "X": -124.194924,
+    "Y": 49.2727107,
+    "Notes": 0
+  },
+  {
+    "addressString": "209 ANDERSON AVE",
+    "X": -124.9977416,
+    "Y": 49.6940529,
+    "Notes": 0
+  },
+  {
+    "addressString": "157 - 1121 LAKESIDE DR",
+    "X": -117.2887037,
+    "Y": 49.5000476,
+    "Notes": 0
+  },
+  {
+    "addressString": "422 VERNON STREET",
+    "X": -117.294878,
+    "Y": 49.4923954,
+    "Notes": 0
+  },
+  {
+    "addressString": "616 VERNON ST",
+    "X": -117.2921503,
+    "Y": 49.493421,
+    "Notes": 0
+  },
+  {
+    "addressString": "717 JOSEPHINE ST",
+    "X": -117.2904442,
+    "Y": 49.4905354,
+    "Notes": 0
+  },
+  {
+    "addressString": "706 UNION STREET",
+    "X": -122.7857178,
+    "Y": 53.9185628,
+    "Notes": 0
+  },
+  {
+    "addressString": "4545 10TH AVENUE",
+    "X": -127.5833746,
+    "Y": 55.2469773,
+    "Notes": 0
+  },
+  {
+    "addressString": "1075 COLUMBIA ST",
+    "X": -127.1773915,
+    "Y": 54.7818522,
+    "Notes": 0
+  },
+  {
+    "addressString": "800 MCBRIDE BLVD",
+    "X": -122.9142076,
+    "Y": 49.2227579,
+    "Notes": 0
+  },
+  {
+    "addressString": "104 -  810 QUAYSIDE DRIVE",
+    "X": -122.9114304,
+    "Y": 49.2001643,
+    "Notes": 0
+  },
+  {
+    "addressString": "1110 EWEN AVE",
+    "X": -122.9492664,
+    "Y": 49.185161,
+    "Notes": 0
+  },
+  {
+    "addressString": "115  12TH ST",
+    "X": -123.9264887,
+    "Y": 49.1287122,
+    "Notes": 0
+  },
+  {
+    "addressString": "140 6TH STREET",
+    "X": -122.9122475,
+    "Y": 49.2057321,
+    "Notes": 0
+  },
+  {
+    "addressString": "250 COLUMBIA ST",
+    "X": -122.9034434,
+    "Y": 49.2052965,
+    "Notes": 0
+  },
+  {
+    "addressString": "320  6TH ST",
+    "X": -122.916229,
+    "Y": 49.2094889,
+    "Notes": 0
+  },
+  {
+    "addressString": "411 COLUMBIA ST",
+    "X": -122.9059646,
+    "Y": 49.2045801,
+    "Notes": 0
+  },
+  {
+    "addressString": "444 E COLUMBIA STREET",
+    "X": -122.8923959,
+    "Y": 49.229538,
+    "Notes": 0
+  },
+  {
+    "addressString": "48 EIGHTH STREET",
+    "X": -122.9123767,
+    "Y": 49.2018311,
+    "Notes": 0
+  },
+  {
+    "addressString": "525 7TH STREET",
+    "X": -123.9501701,
+    "Y": 49.1472642,
+    "Notes": 0
+  },
+  {
+    "addressString": "T140 - 805 BOYD STREET",
+    "X": -122.947567,
+    "Y": 49.1927295,
+    "Notes": 0
+  },
+  {
+    "addressString": "100 132 W ESPLANADE",
+    "X": -123.0804067,
+    "Y": 49.3118141,
+    "Notes": 0
+  },
+  {
+    "addressString": "15 - 1199 LYNN VALLEY RD",
+    "X": -123.0399078,
+    "Y": 49.3347102,
+    "Notes": 0
+  },
+  {
+    "addressString": "24 - 935 MARINE DR",
+    "X": -123.1003124,
+    "Y": 49.3214849,
+    "Notes": 0
+  },
+  {
+    "addressString": "411 N DOLLARTON HWY",
+    "X": -122.9531269,
+    "Y": 49.3073647,
+    "Notes": 0
+  },
+  {
+    "addressString": "770 - 2601 WESTVIEW DRIVE",
+    "X": -123.0881678,
+    "Y": 49.3334278,
+    "Notes": 0
+  },
+  {
+    "addressString": "100 - 2180 DOLLARTON HIGHWAY",
+    "X": -123.0149945,
+    "Y": 49.305512,
+    "Notes": 0
+  },
+  {
+    "addressString": "1052 DEEP COVE RD",
+    "X": -122.9535307,
+    "Y": 49.3164002,
+    "Notes": 0
+  },
+  {
+    "addressString": "1262 LYNN VALLEY ROAD",
+    "X": -123.0392918,
+    "Y": 49.3370753,
+    "Notes": 0
+  },
+  {
+    "addressString": "127 - 1433 LONSDALE AVE",
+    "X": -123.0728473,
+    "Y": 49.3215035,
+    "Notes": 0
+  },
+  {
+    "addressString": "135 PEMBERTON AVE",
+    "X": -123.1083648,
+    "Y": 49.317264,
+    "Notes": 0
+  },
+  {
+    "addressString": "1520 BARROW STREET",
+    "X": -123.0310706,
+    "Y": 49.3046157,
+    "Notes": 0
+  },
+  {
+    "addressString": "1887 MARINE DRIVE",
+    "X": -123.1197692,
+    "Y": 49.3236463,
+    "Notes": 0
+  },
+  {
+    "addressString": "2989 LONSDALE AVE",
+    "X": -123.0723997,
+    "Y": 49.3362666,
+    "Notes": 0
+  },
+  {
+    "addressString": "3018 - 3020 EDGEMONT BLVD",
+    "X": -123.1008916,
+    "Y": 49.336785,
+    "Notes": 0
+  },
+  {
+    "addressString": "700 LILLOOET RD",
+    "X": -123.0266779,
+    "Y": 49.3128888,
+    "Notes": 0
+  },
+  {
+    "addressString": "86 SEMISCH AVE",
+    "X": -123.0831964,
+    "Y": 49.3134893,
+    "Notes": 0
+  },
+  {
+    "addressString": "900 - 333 BROOKSBANK AVENUE",
+    "X": -123.0419504,
+    "Y": 49.3090565,
+    "Notes": 0
+  },
+  {
+    "addressString": "D120  1133 MOUNT SEYMOUR RD",
+    "X": -122.9702469,
+    "Y": 49.3162532,
+    "Notes": 0
+  },
+  {
+    "addressString": "118 - 2187 OAK BAY AVE",
+    "X": -123.316377,
+    "Y": 48.426075,
+    "Notes": 0
+  },
+  {
+    "addressString": "1045 MAIN STREET",
+    "X": -119.5711649,
+    "Y": 49.3431966,
+    "Notes": 0
+  },
+  {
+    "addressString": "5966 MAIN STREET",
+    "X": -119.5519492,
+    "Y": 49.1794003,
+    "Notes": 0
+  },
+  {
+    "addressString": "170 - 34017  97TH ST",
+    "X": -121.9116842,
+    "Y": 56.0283988,
+    "Notes": 0
+  },
+  {
+    "addressString": "6341 MAIN STREET",
+    "X": -119.5499965,
+    "Y": 49.1846884,
+    "Notes": 0
+  },
+  {
+    "addressString": "8110 MAIN ST",
+    "X": -119.4619891,
+    "Y": 49.0300024,
+    "Notes": 0
+  },
+  {
+    "addressString": "6405 67TH STREET",
+    "X": -123.0385319,
+    "Y": 49.0049063,
+    "Notes": 0
+  },
+  {
+    "addressString": "7603 SPARTAN DRIVE",
+    "X": -119.4631345,
+    "Y": 49.0333789,
+    "Notes": 0
+  },
+  {
+    "addressString": "319B E ISLAND HWY",
+    "X": -124.3035258,
+    "Y": 49.3195397,
+    "Notes": 0
+  },
+  {
+    "addressString": "WEMBLY MALL",
+    "X": -124.3529933,
+    "Y": 49.3328994,
+    "Notes": 0
+  },
+  {
+    "addressString": "163 SOUTH ALBERNI HIGHWAY",
+    "X": -124.3142327,
+    "Y": 49.319018,
+    "Notes": 0
+  },
+  {
+    "addressString": "491 EAST ISLAND HIGHWAY",
+    "X": -124.2964734,
+    "Y": 49.3182244,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT 1 160 CORFIELD ST",
+    "X": -124.3070656,
+    "Y": 49.3189807,
+    "Notes": 0
+  },
+  {
+    "addressString": "14 5500 CLEMENTS CRESENT",
+    "X": -119.7170392,
+    "Y": 49.7846109,
+    "Notes": 0
+  },
+  {
+    "addressString": "102-7445 FRONTIER ST",
+    "X": -122.8064623,
+    "Y": 50.3230081,
+    "Notes": 0
+  },
+  {
+    "addressString": "7423 FRONTIER STREET",
+    "X": -122.8070264,
+    "Y": 50.3214203,
+    "Notes": 0
+  },
+  {
+    "addressString": "6 - 4605 BEDWELL HARBOUR RD",
+    "X": -123.2831434,
+    "Y": 48.7798737,
+    "Notes": 0
+  },
+  {
+    "addressString": "5827 SCHOONER WAY",
+    "X": -123.2703159,
+    "Y": 48.761354,
+    "Notes": 0
+  },
+  {
+    "addressString": "9801 SPALDING ROAD",
+    "X": -123.22717,
+    "Y": 48.7481279,
+    "Notes": 0
+  },
+  {
+    "addressString": "405 1301 MAIN ST",
+    "X": -119.5878097,
+    "Y": 49.4849334,
+    "Notes": 0
+  },
+  {
+    "addressString": "101- 1652 FAIRVIEW RD",
+    "X": -119.5941639,
+    "Y": 49.4802727,
+    "Notes": 0
+  },
+  {
+    "addressString": "1173 GOVERNMENT ST",
+    "X": -119.5795141,
+    "Y": 49.4883601,
+    "Notes": 0
+  },
+  {
+    "addressString": "152 - 290 RIVERSIDE DRIVE",
+    "X": -119.6153539,
+    "Y": 49.496483,
+    "Notes": 0
+  },
+  {
+    "addressString": "164 - 2111 MAIN STREET",
+    "X": -123.1013286,
+    "Y": 49.2656481,
+    "Notes": 0
+  },
+  {
+    "addressString": "2460 SKAHA LAKE RD",
+    "X": -119.583178,
+    "Y": 49.4696792,
+    "Notes": 0
+  },
+  {
+    "addressString": "333 MARTIN ST.",
+    "X": -119.5937516,
+    "Y": 49.498091,
+    "Notes": 0
+  },
+  {
+    "addressString": "3502 SKAHA LAKE ROAD",
+    "X": -119.5867262,
+    "Y": 49.4561597,
+    "Notes": 0
+  },
+  {
+    "addressString": "360 MARTIN STREET",
+    "X": -119.5927581,
+    "Y": 49.4976193,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT 110 - 251 GREEN AVENUE WEST",
+    "X": -133.7111502,
+    "Y": 59.5767825,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT 810 - 19800 LOUGHEED HWY",
+    "X": -122.6717064,
+    "Y": 49.2214537,
+    "Notes": 0
+  },
+  {
+    "addressString": "13 - 19040 LOUGHEED HWY",
+    "X": -122.693585,
+    "Y": 49.2316978,
+    "Notes": 0
+  },
+  {
+    "addressString": "19167 FORD RD",
+    "X": -122.6904607,
+    "Y": 49.2227519,
+    "Notes": 0
+  },
+  {
+    "addressString": "19267 LOUGHEED HWY",
+    "X": -122.6878244,
+    "Y": 49.2310557,
+    "Notes": 0
+  },
+  {
+    "addressString": "3764 10TH AVE",
+    "X": -124.798778,
+    "Y": 49.2448593,
+    "Notes": 0
+  },
+  {
+    "addressString": "10695 LAKESHORE RD",
+    "X": -124.9778553,
+    "Y": 49.2842804,
+    "Notes": 0
+  },
+  {
+    "addressString": "2970 ALBERNI HIGHWAY",
+    "X": -124.7722282,
+    "Y": 49.2660372,
+    "Notes": 0
+  },
+  {
+    "addressString": "3684 3RD AVENUE",
+    "X": -127.1667665,
+    "Y": 54.7791913,
+    "Notes": 0
+  },
+  {
+    "addressString": "3835 REDFORD STREET",
+    "X": -124.7919598,
+    "Y": 49.2462912,
+    "Notes": 0
+  },
+  {
+    "addressString": "4277 STAMP AVE",
+    "X": -124.806442,
+    "Y": 49.2536629,
+    "Notes": 0
+  },
+  {
+    "addressString": "4850 BEAVER CREEK RD",
+    "X": -124.8191851,
+    "Y": 49.2611124,
+    "Notes": 0
+  },
+  {
+    "addressString": "4940 CHERRY CREEK RD",
+    "X": -124.7889935,
+    "Y": 49.264641,
+    "Notes": 0
+  },
+  {
+    "addressString": "4963 ANGUS ST.",
+    "X": -124.8065069,
+    "Y": 49.2335968,
+    "Notes": 0
+  },
+  {
+    "addressString": "5086 JOHNSTON ROAD",
+    "X": -124.8124288,
+    "Y": 49.257443,
+    "Notes": 0
+  },
+  {
+    "addressString": "1071 MARINE DR",
+    "X": -127.4866801,
+    "Y": 50.4263659,
+    "Notes": 0
+  },
+  {
+    "addressString": "100 2748 LOUGHEED HWY",
+    "X": -122.7894897,
+    "Y": 49.2719741,
+    "Notes": 0
+  },
+  {
+    "addressString": "140 - 1097 NICOLA AVE",
+    "X": -122.7443248,
+    "Y": 49.2578678,
+    "Notes": 0
+  },
+  {
+    "addressString": "1760 KINGSWAY",
+    "X": -123.0686373,
+    "Y": 49.2464757,
+    "Notes": 0
+  },
+  {
+    "addressString": "1864 ARGUE AVE",
+    "X": -122.7672748,
+    "Y": 49.2349659,
+    "Notes": 0
+  },
+  {
+    "addressString": "2089 LOUGHEED HWY",
+    "X": -122.7733357,
+    "Y": 49.2663006,
+    "Notes": 0
+  },
+  {
+    "addressString": "2342 ELGIN AVENUE",
+    "X": -122.7817897,
+    "Y": 49.2636635,
+    "Notes": 0
+  },
+  {
+    "addressString": "3255 COAST MERIDIAN ROAD",
+    "X": -122.7561869,
+    "Y": 49.2721386,
+    "Notes": 0
+  },
+  {
+    "addressString": "850 VILLAGE DRIVE",
+    "X": -122.7384245,
+    "Y": 49.2532381,
+    "Notes": 0
+  },
+  {
+    "addressString": "8775 GRANVILLE ST",
+    "X": -127.4944256,
+    "Y": 50.7205979,
+    "Notes": 0
+  },
+  {
+    "addressString": "4030 BYNG RD",
+    "X": -127.385397,
+    "Y": 50.6884524,
+    "Notes": 0
+  },
+  {
+    "addressString": "6555 HARDY BAY ROAD",
+    "X": -127.4891963,
+    "Y": 50.7126214,
+    "Notes": 0
+  },
+  {
+    "addressString": "1705 CAMPBELL WAY",
+    "X": -127.0853273,
+    "Y": 50.5887041,
+    "Notes": 0
+  },
+  {
+    "addressString": "1703 BROUGHTON BLVD",
+    "X": -127.0847638,
+    "Y": 50.5899522,
+    "Notes": 0
+  },
+  {
+    "addressString": "1817 CAMPBELL WAY",
+    "X": -127.0842689,
+    "Y": 50.5867107,
+    "Notes": 0
+  },
+  {
+    "addressString": "101 - 130 BREW STREET",
+    "X": -122.8285399,
+    "Y": 49.279846,
+    "Notes": 0
+  },
+  {
+    "addressString": "215 A NEWPORT DRIVE",
+    "X": -122.8261867,
+    "Y": 49.2828151,
+    "Notes": 0
+  },
+  {
+    "addressString": "2414 ST. JOHN'S STREET",
+    "X": -122.8573441,
+    "Y": 49.2770482,
+    "Notes": 0
+  },
+  {
+    "addressString": "3224 ST  JOHN'S ST",
+    "X": -122.8325099,
+    "Y": 49.276996,
+    "Notes": 0
+  },
+  {
+    "addressString": "4 - 2929 ST. JOHNS ST",
+    "X": -122.8462236,
+    "Y": 49.2763288,
+    "Notes": 0
+  },
+  {
+    "addressString": "PARKINSON ROAD",
+    "X": -124.3970024,
+    "Y": 48.558816,
+    "Notes": 0
+  },
+  {
+    "addressString": "5102 50TH AVENUE",
+    "X": -120.1303424,
+    "Y": 55.7159375,
+    "Notes": 0
+  },
+  {
+    "addressString": "91 - 7100 ALBERNI ST",
+    "X": -124.5171377,
+    "Y": 49.8464484,
+    "Notes": 0
+  },
+  {
+    "addressString": "101 - 7010 DUNCAN STREET",
+    "X": -124.5196272,
+    "Y": 49.8356841,
+    "Notes": 0
+  },
+  {
+    "addressString": "4675 ONTARIO AVE.",
+    "X": -124.5165851,
+    "Y": 49.8437671,
+    "Notes": 0
+  },
+  {
+    "addressString": "5728 MANSON AVE",
+    "X": -124.5283393,
+    "Y": 49.8715182,
+    "Notes": 0
+  },
+  {
+    "addressString": "5987 LUND STREET",
+    "X": -124.5632207,
+    "Y": 49.8886464,
+    "Notes": 0
+  },
+  {
+    "addressString": "6251 YEW STREET",
+    "X": -124.5519078,
+    "Y": 49.8731455,
+    "Notes": 0
+  },
+  {
+    "addressString": "7 - 4493 MARINE AVENUE",
+    "X": -124.5278694,
+    "Y": 49.8374822,
+    "Notes": 0
+  },
+  {
+    "addressString": "7074 WESTMINSTER ST",
+    "X": -124.5178219,
+    "Y": 49.8022658,
+    "Notes": 0
+  },
+  {
+    "addressString": "3173 MASSEY DR",
+    "X": -122.7812245,
+    "Y": 53.8993128,
+    "Notes": 0
+  },
+  {
+    "addressString": "5242 DOMANO BLVD",
+    "X": -122.7747633,
+    "Y": 53.8682588,
+    "Notes": 0
+  },
+  {
+    "addressString": "6555 HART HWY",
+    "X": -122.7868423,
+    "Y": 53.9885918,
+    "Notes": 0
+  },
+  {
+    "addressString": "112 - 6333 SOUTHRIDGE AVE",
+    "X": -122.7841075,
+    "Y": 53.8641133,
+    "Notes": 0
+  },
+  {
+    "addressString": "118  4488 HWY 16 WEST",
+    "X": -128.5796882,
+    "Y": 54.5122071,
+    "Notes": 0
+  },
+  {
+    "addressString": "1512 12TH AVE",
+    "X": -122.7551822,
+    "Y": 53.9112654,
+    "Notes": 0
+  },
+  {
+    "addressString": "1724 STRATHCONA AVE",
+    "X": -122.7596712,
+    "Y": 53.9024102,
+    "Notes": 0
+  },
+  {
+    "addressString": "1836 BOUNDARY ROAD",
+    "X": -122.6774015,
+    "Y": 53.9021553,
+    "Notes": 0
+  },
+  {
+    "addressString": "222 & 220- 100 TABOR BLVD S",
+    "X": -138.4476442,
+    "Y": 44.199612,
+    "Notes": 0
+  },
+  {
+    "addressString": "2280 HART HWY",
+    "X": -122.7618876,
+    "Y": 53.9455703,
+    "Notes": 0
+  },
+  {
+    "addressString": "2324  2150 FERRY AVE",
+    "X": -122.7683067,
+    "Y": 53.8891376,
+    "Notes": 0
+  },
+  {
+    "addressString": "3244  10TH AVE",
+    "X": -122.7833967,
+    "Y": 53.9155621,
+    "Notes": 0
+  },
+  {
+    "addressString": "4038 COWART RD",
+    "X": -122.7695203,
+    "Y": 53.8801896,
+    "Notes": 0
+  },
+  {
+    "addressString": "4182  15TH AVE",
+    "X": -122.801484,
+    "Y": 53.9105849,
+    "Notes": 0
+  },
+  {
+    "addressString": "4327 NORDIC DRIVE",
+    "X": -122.8000553,
+    "Y": 53.9989918,
+    "Notes": 0
+  },
+  {
+    "addressString": "433 CARNEY ST",
+    "X": -122.7695226,
+    "Y": 53.9213325,
+    "Notes": 0
+  },
+  {
+    "addressString": "444 GEORGE ST",
+    "X": -122.7433971,
+    "Y": 53.9148692,
+    "Notes": 0
+  },
+  {
+    "addressString": "460 OSPIKA BOULEVARD",
+    "X": -122.7938653,
+    "Y": 53.9211443,
+    "Notes": 0
+  },
+  {
+    "addressString": "6055 MONTEREY ROAD",
+    "X": -122.7716149,
+    "Y": 53.9789947,
+    "Notes": 0
+  },
+  {
+    "addressString": "6475 JOHN HART HWY",
+    "X": -121.7268755,
+    "Y": 55.6669886,
+    "Notes": 0
+  },
+  {
+    "addressString": "6957 GISCOME ROAD",
+    "X": -122.6188053,
+    "Y": 53.8982337,
+    "Notes": 0
+  },
+  {
+    "addressString": "770 BRUNSWICK STREET",
+    "X": -122.7503961,
+    "Y": 53.9135662,
+    "Notes": 0
+  },
+  {
+    "addressString": "9912 SINTICH ROAD",
+    "X": -122.7059902,
+    "Y": 53.8497453,
+    "Notes": 0
+  },
+  {
+    "addressString": "5100 NORTH NECHAKO RD",
+    "X": -122.8167902,
+    "Y": 53.9602294,
+    "Notes": 0
+  },
+  {
+    "addressString": "100 2ND AVE W",
+    "X": -133.7020975,
+    "Y": 59.5720459,
+    "Notes": 0
+  },
+  {
+    "addressString": "1125 PARK AVE",
+    "X": -130.3334851,
+    "Y": 54.3072172,
+    "Notes": 0
+  },
+  {
+    "addressString": "118 6TH STREET",
+    "X": -130.3293171,
+    "Y": 54.3116376,
+    "Notes": 0
+  },
+  {
+    "addressString": "1352  11TH AVE E",
+    "X": -130.2938371,
+    "Y": 54.3214589,
+    "Notes": 0
+  },
+  {
+    "addressString": "5 COW BAY ROAD",
+    "X": -130.3176822,
+    "Y": 54.3177315,
+    "Notes": 0
+  },
+  {
+    "addressString": "725 3RD AVE W",
+    "X": -130.3278953,
+    "Y": 54.3104986,
+    "Notes": 0
+  },
+  {
+    "addressString": "130 HAROLD ST",
+    "X": -120.5097789,
+    "Y": 49.4613033,
+    "Notes": 0
+  },
+  {
+    "addressString": "199 HIGHWAY 3",
+    "X": -117.6483722,
+    "Y": 49.2954441,
+    "Notes": 0
+  },
+  {
+    "addressString": "706 PRIMROSE ST",
+    "X": -124.4442914,
+    "Y": 49.3467509,
+    "Notes": 0
+  },
+  {
+    "addressString": "3109 WEST ISLAND HIGHWAY",
+    "X": -125.2689974,
+    "Y": 50.0480018,
+    "Notes": 0
+  },
+  {
+    "addressString": "532 MEMORIAL AVE",
+    "X": -124.4419749,
+    "Y": 49.3357513,
+    "Notes": 0
+  },
+  {
+    "addressString": "6120 ISLAND HWY W",
+    "X": -124.6341004,
+    "Y": 49.4057497,
+    "Notes": 0
+  },
+  {
+    "addressString": "115 OCEANVIEW DRIVE",
+    "X": -132.0782042,
+    "Y": 53.2553321,
+    "Notes": 0
+  },
+  {
+    "addressString": "2600 3RD AVE",
+    "X": -128.0684472,
+    "Y": 55.2651263,
+    "Notes": 0
+  },
+  {
+    "addressString": "488 REID ST",
+    "X": -122.4970527,
+    "Y": 52.9803438,
+    "Notes": 0
+  },
+  {
+    "addressString": "10  155 MALCOLM DRIVE",
+    "X": -122.5053013,
+    "Y": 52.9732785,
+    "Notes": 0
+  },
+  {
+    "addressString": "1262 MAPLE HEIGHTS ROAD",
+    "X": -122.4462015,
+    "Y": 52.958867,
+    "Notes": 0
+  },
+  {
+    "addressString": "2330 HYDRAULIC RD",
+    "X": -119.2074593,
+    "Y": 49.8142909,
+    "Notes": 0
+  },
+  {
+    "addressString": "254 FRONT ST",
+    "X": -122.4975472,
+    "Y": 52.9766667,
+    "Notes": 0
+  },
+  {
+    "addressString": "2901 PINNACLES ROAD",
+    "X": -122.6058227,
+    "Y": 53.0199044,
+    "Notes": 0
+  },
+  {
+    "addressString": "665 NEWMAN ROAD",
+    "X": -122.4413369,
+    "Y": 52.9686051,
+    "Notes": 0
+  },
+  {
+    "addressString": "7531 HWY 95",
+    "X": -116.1838822,
+    "Y": 49.0300233,
+    "Notes": 0
+  },
+  {
+    "addressString": "7493 MAIN STREET",
+    "X": -123.1020396,
+    "Y": 49.2168466,
+    "Notes": 0
+  },
+  {
+    "addressString": "7538 MAIN ST. E",
+    "X": -116.0697132,
+    "Y": 50.6201981,
+    "Notes": 0
+  },
+  {
+    "addressString": "111 CAMPBELL AVE",
+    "X": -118.1964886,
+    "Y": 51.0001592,
+    "Notes": 0
+  },
+  {
+    "addressString": "110 BOYLE AVENUE",
+    "X": -118.197041,
+    "Y": 51.0010166,
+    "Notes": 0
+  },
+  {
+    "addressString": "112 1ST ST  E",
+    "X": -118.1942875,
+    "Y": 50.9985633,
+    "Notes": 0
+  },
+  {
+    "addressString": "1925 LAFORME BLVD",
+    "X": -118.2181647,
+    "Y": 51.0099421,
+    "Notes": 0
+  },
+  {
+    "addressString": "2108 BIG EDDY ROAD",
+    "X": -118.2302198,
+    "Y": 50.9981116,
+    "Notes": 0
+  },
+  {
+    "addressString": "10 - 8671 NO 1 RD",
+    "X": -123.1813931,
+    "Y": 49.1489414,
+    "Notes": 0
+  },
+  {
+    "addressString": "100 8100 ACKROYD RD",
+    "X": -123.1364673,
+    "Y": 49.1719821,
+    "Notes": 0
+  },
+  {
+    "addressString": "3170 - 11666 STEVESTON HWY",
+    "X": -123.0953093,
+    "Y": 49.1332886,
+    "Notes": 0
+  },
+  {
+    "addressString": "10 - 9371 NO 5 ROAD",
+    "X": -123.0923708,
+    "Y": 49.1448559,
+    "Notes": 0
+  },
+  {
+    "addressString": "105/110-3671 WESTMINSTER HWY",
+    "X": -123.1824931,
+    "Y": 49.1706575,
+    "Notes": 0
+  },
+  {
+    "addressString": "1103  3211 GRANT MCCONACHIE WAY",
+    "X": -123.1569662,
+    "Y": 49.1910143,
+    "Notes": 0
+  },
+  {
+    "addressString": "112 - 3800 BAYVIEW ST",
+    "X": -123.184297,
+    "Y": 49.1239275,
+    "Notes": 0
+  },
+  {
+    "addressString": "12111 3RD AVE",
+    "X": -123.1861894,
+    "Y": 49.1257561,
+    "Notes": 0
+  },
+  {
+    "addressString": "135/140",
+    "X": -138.4476442,
+    "Y": 44.199612,
+    "Notes": 0
+  },
+  {
+    "addressString": "180 - 3031 BECKMAN PLACE",
+    "X": -123.1084867,
+    "Y": 49.1917077,
+    "Notes": 0
+  },
+  {
+    "addressString": "185- 11700 CAMBIE RD",
+    "X": -123.092763,
+    "Y": 49.1845133,
+    "Notes": 0
+  },
+  {
+    "addressString": "200 - 10111 NO.3 ROAD",
+    "X": -123.1367686,
+    "Y": 49.1395063,
+    "Notes": 0
+  },
+  {
+    "addressString": "2175 - 21000 WESTMINSTER HWY",
+    "X": -122.9910006,
+    "Y": 49.1690593,
+    "Notes": 0
+  },
+  {
+    "addressString": "400 - 9100 BLUNDELL ROAD",
+    "X": -123.1234712,
+    "Y": 49.1554081,
+    "Notes": 0
+  },
+  {
+    "addressString": "5031 STEVESTON HIGHWAY",
+    "X": -123.1692522,
+    "Y": 49.1340303,
+    "Notes": 0
+  },
+  {
+    "addressString": "7211 WESTMINSTER HIGHWAY",
+    "X": -123.1461416,
+    "Y": 49.1706818,
+    "Notes": 0
+  },
+  {
+    "addressString": "7551 WESTMINSTER HWY",
+    "X": -123.1420327,
+    "Y": 49.1710041,
+    "Notes": 0
+  },
+  {
+    "addressString": "8088 PARK ROAD",
+    "X": -123.1352623,
+    "Y": 49.1646781,
+    "Notes": 0
+  },
+  {
+    "addressString": "868-5300 NO. 3 ROAD",
+    "X": -123.1325558,
+    "Y": 49.1755897,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT 120 - 8180 NUMBER 2 ROAD",
+    "X": -123.1588414,
+    "Y": 49.1534224,
+    "Notes": 0
+  },
+  {
+    "addressString": "9291 ALDERBRIDGE WAY",
+    "X": -123.1209103,
+    "Y": 49.177357,
+    "Notes": 0
+  },
+  {
+    "addressString": "2065 COLUMBIA AVE",
+    "X": -117.7989357,
+    "Y": 49.0766444,
+    "Notes": 0
+  },
+  {
+    "addressString": "1938 COLUMBIA AVENUE",
+    "X": -117.8013502,
+    "Y": 49.0773298,
+    "Notes": 0
+  },
+  {
+    "addressString": "101  1660 MACKENZIE AVE",
+    "X": -124.5164228,
+    "Y": 49.8073383,
+    "Notes": 0
+  },
+  {
+    "addressString": "101 - 3671 UPTOWN BOULEVARD",
+    "X": -123.3765196,
+    "Y": 48.4559807,
+    "Notes": 0
+  },
+  {
+    "addressString": "104 3510 BLANSHARD STREET",
+    "X": -123.3734118,
+    "Y": 48.4567053,
+    "Notes": 0
+  },
+  {
+    "addressString": "166  3170 TILLICUM ROAD",
+    "X": -123.396169,
+    "Y": 48.4543731,
+    "Notes": 0
+  },
+  {
+    "addressString": "3366 DOUGLAS ST",
+    "X": -123.3753795,
+    "Y": 48.4513611,
+    "Notes": 0
+  },
+  {
+    "addressString": "3810 SHELBOURNE ST",
+    "X": -123.3332577,
+    "Y": 48.4624434,
+    "Notes": 0
+  },
+  {
+    "addressString": "3837 CADBORO BAY ROAD",
+    "X": -123.2969043,
+    "Y": 48.4613738,
+    "Notes": 0
+  },
+  {
+    "addressString": "4  3960 SHELBOURNE STREET",
+    "X": -123.3327715,
+    "Y": 48.4704493,
+    "Notes": 0
+  },
+  {
+    "addressString": "4025 BORDEN ST",
+    "X": -123.3611638,
+    "Y": 48.4715521,
+    "Notes": 0
+  },
+  {
+    "addressString": "4291 GLANFORD AVE",
+    "X": -123.3874105,
+    "Y": 48.4858459,
+    "Notes": 0
+  },
+  {
+    "addressString": "4468 WEST SAANICH ROAD",
+    "X": -123.4724645,
+    "Y": 48.6137297,
+    "Notes": 0
+  },
+  {
+    "addressString": "603-3991 QUADRA AVE",
+    "X": -123.3637906,
+    "Y": 48.4691608,
+    "Notes": 0
+  },
+  {
+    "addressString": "2134 KEATING CROSS ROAD",
+    "X": -123.4120838,
+    "Y": 48.5651873,
+    "Notes": 0
+  },
+  {
+    "addressString": "2476 MOUNT NEWTON X RD",
+    "X": -124.6994456,
+    "Y": 49.5124956,
+    "Notes": 0
+  },
+  {
+    "addressString": "7806 E  SAANICH RD",
+    "X": -123.4176459,
+    "Y": 48.5944357,
+    "Notes": 0
+  },
+  {
+    "addressString": "115 MAIN ST",
+    "X": -125.9109536,
+    "Y": 49.1529108,
+    "Notes": 0
+  },
+  {
+    "addressString": "105 4TH STREET",
+    "X": -128.6865177,
+    "Y": 54.0584826,
+    "Notes": 0
+  },
+  {
+    "addressString": "115 4TH STREET",
+    "X": -127.0107829,
+    "Y": 50.6263214,
+    "Notes": 0
+  },
+  {
+    "addressString": "500-360 TRANS CANADA HWY",
+    "X": -123.9433166,
+    "Y": 49.1762083,
+    "Notes": 0
+  },
+  {
+    "addressString": "1050  30TH STREET SW",
+    "X": -119.3190079,
+    "Y": 50.6922254,
+    "Notes": 0
+  },
+  {
+    "addressString": "111 LAKESHORE DR NE",
+    "X": -119.2839653,
+    "Y": 50.7026573,
+    "Notes": 0
+  },
+  {
+    "addressString": "112 - 1151  10TH AVE SW",
+    "X": -119.2985939,
+    "Y": 50.693737,
+    "Notes": 0
+  },
+  {
+    "addressString": "2950 11TH AVENUE NORTHEAST",
+    "X": -119.2511693,
+    "Y": 50.7080498,
+    "Notes": 0
+  },
+  {
+    "addressString": "973 LAKESHORE DR SW",
+    "X": -119.2968938,
+    "Y": 50.6982257,
+    "Notes": 0
+  },
+  {
+    "addressString": "1107 115 FULFORD GANGES RD",
+    "X": -123.4979543,
+    "Y": 48.85283,
+    "Notes": 0
+  },
+  {
+    "addressString": "133 LOWER GANGES ROAD",
+    "X": -123.4659371,
+    "Y": 48.8531912,
+    "Notes": 0
+  },
+  {
+    "addressString": "2661 FULFORD-GANGES ROAD",
+    "X": -123.4623189,
+    "Y": 48.7718288,
+    "Notes": 0
+  },
+  {
+    "addressString": "378 LOWER GANGES ROAD",
+    "X": -123.5108424,
+    "Y": 48.8608195,
+    "Notes": 0
+  },
+  {
+    "addressString": "1590 SAYWARD ROAD",
+    "X": -125.9157585,
+    "Y": 50.3126981,
+    "Notes": 0
+  },
+  {
+    "addressString": "5755 COWRIE ST",
+    "X": -123.7609758,
+    "Y": 49.4723723,
+    "Notes": 0
+  },
+  {
+    "addressString": "5580 WHARF STREET",
+    "X": -124.5289258,
+    "Y": 49.8360405,
+    "Notes": 0
+  },
+  {
+    "addressString": "5770 TEREDO ST",
+    "X": -123.7618038,
+    "Y": 49.4707803,
+    "Notes": 0
+  },
+  {
+    "addressString": "1 SETON PORTAGE RD",
+    "X": -122.2819957,
+    "Y": 50.7087746,
+    "Notes": 0
+  },
+  {
+    "addressString": "2890 SHAWNIGAN LAKE RD",
+    "X": -123.6278314,
+    "Y": 48.6596032,
+    "Notes": 0
+  },
+  {
+    "addressString": "309 MAIN ST",
+    "X": -121.9266407,
+    "Y": 50.6999875,
+    "Notes": 0
+  },
+  {
+    "addressString": "1122 RIVERSIDE AVENUE",
+    "X": -118.9910513,
+    "Y": 50.8338099,
+    "Notes": 0
+  },
+  {
+    "addressString": "420 MAIN ST",
+    "X": -129.9838811,
+    "Y": 55.9358268,
+    "Notes": 0
+  },
+  {
+    "addressString": "2335 BEACON AVE",
+    "X": -123.4031864,
+    "Y": 48.6488646,
+    "Notes": 0
+  },
+  {
+    "addressString": "2280 BEACON AVENUE",
+    "X": -123.4066963,
+    "Y": 48.6493727,
+    "Notes": 0
+  },
+  {
+    "addressString": "2537 BEACON AVE",
+    "X": -123.3951316,
+    "Y": 48.6488301,
+    "Notes": 0
+  },
+  {
+    "addressString": "1200-3664 HWY 16 EAST",
+    "X": -128.5304874,
+    "Y": 54.5255241,
+    "Notes": 0
+  },
+  {
+    "addressString": "1114 QUEEN ST",
+    "X": -127.1744688,
+    "Y": 54.7804729,
+    "Notes": 0
+  },
+  {
+    "addressString": "3251 E  HIGHWAY 16",
+    "X": -128.5391834,
+    "Y": 54.5160051,
+    "Notes": 0
+  },
+  {
+    "addressString": "3939 YELLOWHEAD 16",
+    "X": -120.3195752,
+    "Y": 50.7850119,
+    "Notes": 0
+  },
+  {
+    "addressString": "210 - 1ST STREET",
+    "X": -127.0178279,
+    "Y": 50.6278726,
+    "Notes": 0
+  },
+  {
+    "addressString": "9050 - 6660 SOOKE RD",
+    "X": -123.7216598,
+    "Y": 48.3794431,
+    "Notes": 0
+  },
+  {
+    "addressString": "5126 SOOKE ROAD",
+    "X": -123.6275222,
+    "Y": 48.394751,
+    "Notes": 0
+  },
+  {
+    "addressString": "6309 SOOKE RD",
+    "X": -123.7027701,
+    "Y": 48.3852422,
+    "Notes": 0
+  },
+  {
+    "addressString": "6858 WEST COAST ROAD",
+    "X": -123.7293617,
+    "Y": 48.3705804,
+    "Notes": 0
+  },
+  {
+    "addressString": "117 RED CEDAR DR",
+    "X": -114.8867416,
+    "Y": 49.7312958,
+    "Notes": 0
+  },
+  {
+    "addressString": "614 DOUGLAS FIR ROAD",
+    "X": -114.8942033,
+    "Y": 49.7192018,
+    "Notes": 0
+  },
+  {
+    "addressString": "40204 GLENALDER PLACE",
+    "X": -123.133796,
+    "Y": 49.7381466,
+    "Notes": 0
+  },
+  {
+    "addressString": "37991  2ND AVE",
+    "X": -123.1553634,
+    "Y": 49.6986537,
+    "Notes": 0
+  },
+  {
+    "addressString": "38241 CLEVELAND AVE",
+    "X": -123.1503734,
+    "Y": 49.7023002,
+    "Notes": 0
+  },
+  {
+    "addressString": "38922 PROGRESS WAY",
+    "X": -123.1488472,
+    "Y": 49.7160404,
+    "Notes": 0
+  },
+  {
+    "addressString": "415 4TH AVE",
+    "X": -129.9919175,
+    "Y": 55.9354045,
+    "Notes": 0
+  },
+  {
+    "addressString": "405 FIFTH AVENUE",
+    "X": -129.9926847,
+    "Y": 55.9362985,
+    "Notes": 0
+  },
+  {
+    "addressString": "12 - 13604 VICTORIA RD N",
+    "X": -119.6839402,
+    "Y": 49.6037045,
+    "Notes": 0
+  },
+  {
+    "addressString": "14216 ROSEDALE AVENUE",
+    "X": -119.6776349,
+    "Y": 49.6064303,
+    "Notes": 0
+  },
+  {
+    "addressString": "7 - 3250 VILLAGE WAY",
+    "X": -119.8816987,
+    "Y": 50.8846942,
+    "Notes": 0
+  },
+  {
+    "addressString": "100 5630 176TH ST",
+    "X": -122.7347579,
+    "Y": 49.104662,
+    "Notes": 0
+  },
+  {
+    "addressString": "101 10761 KING GEORGE BLVD",
+    "X": -122.8459248,
+    "Y": 49.1982194,
+    "Notes": 0
+  },
+  {
+    "addressString": "12881 - 16TH AVE",
+    "X": -122.8654815,
+    "Y": 49.0315017,
+    "Notes": 0
+  },
+  {
+    "addressString": "149 - 1711 - 152ND STREET",
+    "X": -122.801669,
+    "Y": 49.0331143,
+    "Notes": 0
+  },
+  {
+    "addressString": "1720 - 10335 152ND ST",
+    "X": -122.8010372,
+    "Y": 49.1917926,
+    "Notes": 0
+  },
+  {
+    "addressString": "280 - 15355 24TH AVE",
+    "X": -122.7975044,
+    "Y": 49.0458367,
+    "Notes": 0
+  },
+  {
+    "addressString": "520 - 7488 KING GEORGE BLVD",
+    "X": -122.8452552,
+    "Y": 49.1385373,
+    "Notes": 0
+  },
+  {
+    "addressString": "8904 152ND ST",
+    "X": -122.8007875,
+    "Y": 49.1647155,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT 116 - 12080 NORDEL WAY",
+    "X": -122.8886041,
+    "Y": 49.1610981,
+    "Notes": 0
+  },
+  {
+    "addressString": "1 - 18710 FRASER HIGHWAY",
+    "X": -122.7033916,
+    "Y": 49.1242217,
+    "Notes": 0
+  },
+  {
+    "addressString": "10176  154TH ST",
+    "X": -122.7950644,
+    "Y": 49.1875888,
+    "Notes": 0
+  },
+  {
+    "addressString": "103 & 104 16780 64TH AVENUE",
+    "X": -138.4476442,
+    "Y": 44.199612,
+    "Notes": 0
+  },
+  {
+    "addressString": "105/106C - 13631 80TH AVENUE",
+    "X": -122.8443451,
+    "Y": 49.1483376,
+    "Notes": 0
+  },
+  {
+    "addressString": "105-19228 96 AVE",
+    "X": -122.6894198,
+    "Y": 49.1769176,
+    "Notes": 0
+  },
+  {
+    "addressString": "10768 KING GEORGE HWY",
+    "X": -122.8449524,
+    "Y": 49.1981916,
+    "Notes": 0
+  },
+  {
+    "addressString": "110-7218 KING GEORGE BLVD",
+    "X": -122.8452132,
+    "Y": 49.1343323,
+    "Notes": 0
+  },
+  {
+    "addressString": "12054  96TH AVE",
+    "X": -122.8875909,
+    "Y": 49.1769946,
+    "Notes": 0
+  },
+  {
+    "addressString": "12411 KING GEORGE BLVD",
+    "X": -122.8777823,
+    "Y": 49.2067937,
+    "Notes": 0
+  },
+  {
+    "addressString": "12499 88TH AVENUE",
+    "X": -122.8766604,
+    "Y": 49.1633578,
+    "Notes": 0
+  },
+  {
+    "addressString": "12867 96 AVENUE",
+    "X": -122.8652022,
+    "Y": 49.1773112,
+    "Notes": 0
+  },
+  {
+    "addressString": "13468 72ND AVE",
+    "X": -122.8493956,
+    "Y": 49.1334213,
+    "Notes": 0
+  },
+  {
+    "addressString": "138 - 2725 192ND STREET",
+    "X": -122.6918188,
+    "Y": 49.0522006,
+    "Notes": 0
+  },
+  {
+    "addressString": "13975 - 13977 16TH AVENUE",
+    "X": -122.8348066,
+    "Y": 49.0312514,
+    "Notes": 0
+  },
+  {
+    "addressString": "14817  108 AVE",
+    "X": -122.8119455,
+    "Y": 49.1994372,
+    "Notes": 0
+  },
+  {
+    "addressString": "14974 104TH AVE",
+    "X": -122.8074608,
+    "Y": 49.1913185,
+    "Notes": 0
+  },
+  {
+    "addressString": "170 CENTRAL CITY 13450 102 AVENUE",
+    "X": -122.8487665,
+    "Y": 49.1879191,
+    "Notes": 0
+  },
+  {
+    "addressString": "1763 KING GEORGE BOULEVARD",
+    "X": -122.779511,
+    "Y": 49.0342002,
+    "Notes": 0
+  },
+  {
+    "addressString": "17630 56TH AVENUE",
+    "X": -122.7340811,
+    "Y": 49.1039147,
+    "Notes": 0
+  },
+  {
+    "addressString": "19580 56TH AVE",
+    "X": -122.6804945,
+    "Y": 49.104223,
+    "Notes": 0
+  },
+  {
+    "addressString": "20  16051  24TH AVE",
+    "X": -122.7781263,
+    "Y": 49.0456347,
+    "Notes": 0
+  },
+  {
+    "addressString": "225 - 7115  138TH STREET",
+    "X": -122.8387379,
+    "Y": 49.1318527,
+    "Notes": 0
+  },
+  {
+    "addressString": "3020 - 152 STREET",
+    "X": -122.8008502,
+    "Y": 49.0572222,
+    "Notes": 0
+  },
+  {
+    "addressString": "304 - 6361 152ND STREET",
+    "X": -122.8013935,
+    "Y": 49.1184735,
+    "Notes": 0
+  },
+  {
+    "addressString": "3140 KING GEORGE BLVD",
+    "X": -122.8098986,
+    "Y": 49.0591846,
+    "Notes": 0
+  },
+  {
+    "addressString": "413 - 6466  176TH ST",
+    "X": -122.7345741,
+    "Y": 49.1198749,
+    "Notes": 0
+  },
+  {
+    "addressString": "5590  152 STREET",
+    "X": -122.8009267,
+    "Y": 49.1041394,
+    "Notes": 0
+  },
+  {
+    "addressString": "5858 176 ST",
+    "X": -122.7347348,
+    "Y": 49.1089124,
+    "Notes": 0
+  },
+  {
+    "addressString": "700 - 7380 KING GEORGE HWY",
+    "X": -122.8452107,
+    "Y": 49.136736,
+    "Notes": 0
+  },
+  {
+    "addressString": "8410-160TH STREET",
+    "X": -122.778593,
+    "Y": 49.1556103,
+    "Notes": 0
+  },
+  {
+    "addressString": "8555  132ND ST",
+    "X": -122.8574552,
+    "Y": 49.158151,
+    "Notes": 0
+  },
+  {
+    "addressString": "9082A 152ND STREET",
+    "X": -122.8012004,
+    "Y": 49.1678624,
+    "Notes": 0
+  },
+  {
+    "addressString": "9167 148TH ST",
+    "X": -122.8124958,
+    "Y": 49.1696117,
+    "Notes": 0
+  },
+  {
+    "addressString": "9850 KING GEORGE HWY",
+    "X": -122.8453469,
+    "Y": 49.1816244,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT 101",
+    "X": -121.8078688,
+    "Y": 56.7286814,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT 103 - 13588 88TH AVENUE",
+    "X": -122.8468646,
+    "Y": 49.1625281,
+    "Notes": 0
+  },
+  {
+    "addressString": "10 & 11 - 358  175A STREET",
+    "X": -115.7469444,
+    "Y": 49.5080556,
+    "Notes": 0
+  },
+  {
+    "addressString": "101- 14357 104TH AVE",
+    "X": -122.8237718,
+    "Y": 49.1917293,
+    "Notes": 0
+  },
+  {
+    "addressString": "105/106 - 18810 72ND AVENUE",
+    "X": -122.7011283,
+    "Y": 49.1333201,
+    "Notes": 0
+  },
+  {
+    "addressString": "11411 BRIDGEVIEW DRIVE",
+    "X": -122.8627565,
+    "Y": 49.2101863,
+    "Notes": 0
+  },
+  {
+    "addressString": "14340 64TH AVENUE",
+    "X": -122.8250576,
+    "Y": 49.1189127,
+    "Notes": 0
+  },
+  {
+    "addressString": "16541 16TH AVENUE",
+    "X": -122.7643878,
+    "Y": 49.0312761,
+    "Notes": 0
+  },
+  {
+    "addressString": "207 6321 KING GEORGE BLVD",
+    "X": -122.8458528,
+    "Y": 49.1175975,
+    "Notes": 0
+  },
+  {
+    "addressString": "310-8128 128TH STREET",
+    "X": -122.8656819,
+    "Y": 49.150239,
+    "Notes": 0
+  },
+  {
+    "addressString": "401/402 16033 108TH STREET",
+    "X": -122.7777544,
+    "Y": 49.1989669,
+    "Notes": 0
+  },
+  {
+    "addressString": "5 12823 CRESCENT RD",
+    "X": -122.8669832,
+    "Y": 49.0532066,
+    "Notes": 0
+  },
+  {
+    "addressString": "701 - 15970 FRASER HWY",
+    "X": -122.7813083,
+    "Y": 49.1580818,
+    "Notes": 0
+  },
+  {
+    "addressString": "187 HEAD BAY ROAD",
+    "X": -126.6534896,
+    "Y": 49.9241577,
+    "Notes": 0
+  },
+  {
+    "addressString": "10440 100TH ST",
+    "X": -120.6832084,
+    "Y": 56.1527513,
+    "Notes": 0
+  },
+  {
+    "addressString": "3240 EBY ST",
+    "X": -128.5988757,
+    "Y": 54.51837,
+    "Notes": 0
+  },
+  {
+    "addressString": "2387 THORNHILL ST",
+    "X": -128.5164929,
+    "Y": 54.5047663,
+    "Notes": 0
+  },
+  {
+    "addressString": "3005 KALUM STREET",
+    "X": -128.5878207,
+    "Y": 54.513487,
+    "Notes": 0
+  },
+  {
+    "addressString": "4529 GREIG STREET",
+    "X": -128.5835134,
+    "Y": 54.5153006,
+    "Notes": 0
+  },
+  {
+    "addressString": "4620 LAKELSE AVE",
+    "X": -128.5882116,
+    "Y": 54.5168668,
+    "Notes": 0
+  },
+  {
+    "addressString": "46 HARBOUR ROAD",
+    "X": -123.6714576,
+    "Y": 48.9769651,
+    "Notes": 0
+  },
+  {
+    "addressString": "3086 HIGHWAY 16 EAST",
+    "X": -128.5420205,
+    "Y": 54.5134553,
+    "Notes": 0
+  },
+  {
+    "addressString": "328 NEIL ST",
+    "X": -125.9067472,
+    "Y": 49.1521102,
+    "Notes": 0
+  },
+  {
+    "addressString": "120 1ST STREET",
+    "X": -127.0170025,
+    "Y": 50.6255649,
+    "Notes": 0
+  },
+  {
+    "addressString": "1629 2ND AVE",
+    "X": -132.0748757,
+    "Y": 53.2555284,
+    "Notes": 0
+  },
+  {
+    "addressString": "1001 ROSSLAND AVE",
+    "X": -117.713759,
+    "Y": 49.0964939,
+    "Notes": 0
+  },
+  {
+    "addressString": "1389 BAY AVE",
+    "X": -117.707159,
+    "Y": 49.0958122,
+    "Notes": 0
+  },
+  {
+    "addressString": "3 SCHOFIELD HIGHWAY",
+    "X": -117.7317002,
+    "Y": 49.0984636,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT 2 SALISH SEA DRIVE",
+    "X": -122.9794022,
+    "Y": 49.2843025,
+    "Notes": 0
+  },
+  {
+    "addressString": "225 MAIN ST",
+    "X": -120.9991075,
+    "Y": 55.1253743,
+    "Notes": 0
+  },
+  {
+    "addressString": "275 SOUTHGATE",
+    "X": -120.9972694,
+    "Y": 55.1239832,
+    "Notes": 0
+  },
+  {
+    "addressString": "234 MAIN ST",
+    "X": -125.5458608,
+    "Y": 48.9424434,
+    "Notes": 0
+  },
+  {
+    "addressString": "1786 PENINSULA",
+    "X": -125.5504511,
+    "Y": 48.9428145,
+    "Notes": 0
+  },
+  {
+    "addressString": "1163 - 5TH AVE",
+    "X": -119.263671,
+    "Y": 52.8318526,
+    "Notes": 0
+  },
+  {
+    "addressString": "1200 MAIN STREET",
+    "X": -119.2645793,
+    "Y": 52.8371861,
+    "Notes": 0
+  },
+  {
+    "addressString": "1485  5TH AVE",
+    "X": -119.277213,
+    "Y": 52.8313223,
+    "Notes": 0
+  },
+  {
+    "addressString": "101 - 2083 ALMA ST",
+    "X": -123.1863814,
+    "Y": 49.2682108,
+    "Notes": 0
+  },
+  {
+    "addressString": "101 - 3313 SHRUM LANE",
+    "X": -123.2369154,
+    "Y": 49.2548902,
+    "Notes": 0
+  },
+  {
+    "addressString": "110 - 3150 E 54TH AVE",
+    "X": -123.0401832,
+    "Y": 49.2190881,
+    "Notes": 0
+  },
+  {
+    "addressString": "1108 PACIFIC BLVD",
+    "X": -123.1197249,
+    "Y": 49.2738046,
+    "Notes": 0
+  },
+  {
+    "addressString": "1155 BUTE STREET",
+    "X": -123.4163119,
+    "Y": 48.4631396,
+    "Notes": 0
+  },
+  {
+    "addressString": "1520 COMMERCIAL DRIVE",
+    "X": -123.0695494,
+    "Y": 49.270897,
+    "Notes": 0
+  },
+  {
+    "addressString": "158  - 4255 ARBUTUS ST",
+    "X": -123.1545122,
+    "Y": 49.2485635,
+    "Notes": 0
+  },
+  {
+    "addressString": "1655 DAVIE STREET",
+    "X": -123.1394378,
+    "Y": 49.2861133,
+    "Notes": 0
+  },
+  {
+    "addressString": "1716 ROBSON ST",
+    "X": -123.1349687,
+    "Y": 49.2907861,
+    "Notes": 0
+  },
+  {
+    "addressString": "2058 W 41ST AVE",
+    "X": -123.1537886,
+    "Y": 49.2342514,
+    "Notes": 0
+  },
+  {
+    "addressString": "2088 WEST BROADWAY",
+    "X": -123.1517769,
+    "Y": 49.2637439,
+    "Notes": 0
+  },
+  {
+    "addressString": "2395 CAMBIE STREET",
+    "X": -123.1152254,
+    "Y": 49.264393,
+    "Notes": 0
+  },
+  {
+    "addressString": "3100 EAST BROADWAY",
+    "X": -123.0396818,
+    "Y": 49.2618148,
+    "Notes": 0
+  },
+  {
+    "addressString": "3150 BROADWAY E",
+    "X": -123.0365043,
+    "Y": 49.2609108,
+    "Notes": 0
+  },
+  {
+    "addressString": "3436 KINGSWAY AVE",
+    "X": -123.0323511,
+    "Y": 49.2322658,
+    "Notes": 0
+  },
+  {
+    "addressString": "3453 DUNBAR ST",
+    "X": -123.1855287,
+    "Y": 49.2560178,
+    "Notes": 0
+  },
+  {
+    "addressString": "370 E BROADWAY",
+    "X": -123.0975824,
+    "Y": 49.2623857,
+    "Notes": 0
+  },
+  {
+    "addressString": "4423 MAIN STREET",
+    "X": -123.1013574,
+    "Y": 49.2455389,
+    "Notes": 0
+  },
+  {
+    "addressString": "5555 CAMBIE STREET",
+    "X": -123.1167642,
+    "Y": 49.2347971,
+    "Notes": 0
+  },
+  {
+    "addressString": "768 BUTE STREET",
+    "X": -123.1265838,
+    "Y": 49.2861984,
+    "Notes": 0
+  },
+  {
+    "addressString": "8495 GRANVILLE ST",
+    "X": -123.1406445,
+    "Y": 49.2090857,
+    "Notes": 0
+  },
+  {
+    "addressString": "L1 - 555 W HASTINGS ST",
+    "X": -123.1118888,
+    "Y": 49.284683,
+    "Notes": 0
+  },
+  {
+    "addressString": "1 - 555  12TH AVE W",
+    "X": -123.1162861,
+    "Y": 49.2608634,
+    "Notes": 0
+  },
+  {
+    "addressString": "1060 DENMAN STREET",
+    "X": -123.1402136,
+    "Y": 49.2882846,
+    "Notes": 0
+  },
+  {
+    "addressString": "1075 HORNBY STREET",
+    "X": -123.1260594,
+    "Y": 49.2798586,
+    "Notes": 0
+  },
+  {
+    "addressString": "1116  HAMILTON STREET",
+    "X": -122.9320233,
+    "Y": 49.2100089,
+    "Notes": 0
+  },
+  {
+    "addressString": "1169 BROADWAY W",
+    "X": -123.1305995,
+    "Y": 49.2635296,
+    "Notes": 0
+  },
+  {
+    "addressString": "120-1622 COMMERCIAL ST",
+    "X": -123.0692906,
+    "Y": 49.2700864,
+    "Notes": 0
+  },
+  {
+    "addressString": "1218 WEST PENDER ST",
+    "X": -123.1238607,
+    "Y": 49.288475,
+    "Notes": 0
+  },
+  {
+    "addressString": "1275 GRANVILLE ST",
+    "X": -123.1278332,
+    "Y": 49.2764568,
+    "Notes": 0
+  },
+  {
+    "addressString": "1445  41ST AVE E",
+    "X": -123.0758093,
+    "Y": 49.2327635,
+    "Notes": 0
+  },
+  {
+    "addressString": "1450 MARINE DR.",
+    "X": -123.4790832,
+    "Y": 49.4341228,
+    "Notes": 0
+  },
+  {
+    "addressString": "1489 EAST HASTINGS STREET",
+    "X": -123.0753089,
+    "Y": 49.2816069,
+    "Notes": 0
+  },
+  {
+    "addressString": "1633 MANITOBA ST",
+    "X": -123.1073091,
+    "Y": 49.270655,
+    "Notes": 0
+  },
+  {
+    "addressString": "1660 JOHNSTON STREET",
+    "X": -123.1355308,
+    "Y": 49.2722952,
+    "Notes": 0
+  },
+  {
+    "addressString": "1901 POWELL ST",
+    "X": -123.0650265,
+    "Y": 49.284993,
+    "Notes": 0
+  },
+  {
+    "addressString": "2001 MACDONALD",
+    "X": -123.1686163,
+    "Y": 49.2680934,
+    "Notes": 0
+  },
+  {
+    "addressString": "2018 4TH AVE W",
+    "X": -123.1510359,
+    "Y": 49.2678377,
+    "Notes": 0
+  },
+  {
+    "addressString": "2289 WEST BROADWAY AVENUE",
+    "X": -123.1570149,
+    "Y": 49.2639483,
+    "Notes": 0
+  },
+  {
+    "addressString": "2310 KINGSWAY",
+    "X": -123.0580186,
+    "Y": 49.2415103,
+    "Notes": 0
+  },
+  {
+    "addressString": "2409 BURRARD STREET",
+    "X": -123.145837,
+    "Y": 49.2641468,
+    "Notes": 0
+  },
+  {
+    "addressString": "243 - 2800 EAST 1ST AVENUE",
+    "X": -123.0456483,
+    "Y": 49.2689404,
+    "Notes": 0
+  },
+  {
+    "addressString": "2658 GRANVILLE ST",
+    "X": -123.1384768,
+    "Y": 49.2619068,
+    "Notes": 0
+  },
+  {
+    "addressString": "2733 COMMERCIAL DRIVE",
+    "X": -123.0701899,
+    "Y": 49.2601087,
+    "Notes": 0
+  },
+  {
+    "addressString": "2769 EAST HASTINGS ST",
+    "X": -123.0475064,
+    "Y": 49.2812146,
+    "Notes": 0
+  },
+  {
+    "addressString": "2889 E  HASTINGS ST",
+    "X": -123.045551,
+    "Y": 49.2814055,
+    "Notes": 0
+  },
+  {
+    "addressString": "30  678 DUNSMUIR ST",
+    "X": -123.1162453,
+    "Y": 49.2834566,
+    "Notes": 0
+  },
+  {
+    "addressString": "3045 MAIN ST",
+    "X": -123.1016592,
+    "Y": 49.2578655,
+    "Notes": 0
+  },
+  {
+    "addressString": "3338 WEST BROADWAY",
+    "X": -123.178268,
+    "Y": 49.2639834,
+    "Notes": 0
+  },
+  {
+    "addressString": "3415 CAMBIE STREET",
+    "X": -123.115261,
+    "Y": 49.2546986,
+    "Notes": 0
+  },
+  {
+    "addressString": "3728 CLARK DRIVE",
+    "X": -123.0779419,
+    "Y": 49.2515536,
+    "Notes": 0
+  },
+  {
+    "addressString": "375 WATER STREET",
+    "X": -123.1108431,
+    "Y": 49.2849836,
+    "Notes": 0
+  },
+  {
+    "addressString": "433 ROBSON STREET",
+    "X": -123.1168797,
+    "Y": 49.279843,
+    "Notes": 0
+  },
+  {
+    "addressString": "4333 FRASER ST",
+    "X": -123.0906002,
+    "Y": 49.2461833,
+    "Notes": 0
+  },
+  {
+    "addressString": "4474 DUNBAR STREET",
+    "X": -123.1852081,
+    "Y": 49.2462699,
+    "Notes": 0
+  },
+  {
+    "addressString": "4583 WEST 10TH AVE",
+    "X": -123.2117405,
+    "Y": 49.2641373,
+    "Notes": 0
+  },
+  {
+    "addressString": "460 SW MARINE DRIVE",
+    "X": -123.1165553,
+    "Y": 49.2102562,
+    "Notes": 0
+  },
+  {
+    "addressString": "500 WEST 12TH AVE",
+    "X": -123.1154624,
+    "Y": 49.2601037,
+    "Notes": 0
+  },
+  {
+    "addressString": "5503 - 5525 W BOULEVARD",
+    "X": -123.1555691,
+    "Y": 49.236186,
+    "Notes": 0
+  },
+  {
+    "addressString": "5650 DUNBAR ST",
+    "X": -123.1849931,
+    "Y": 49.2350942,
+    "Notes": 0
+  },
+  {
+    "addressString": "568 ABBOTT STREET",
+    "X": -123.1067287,
+    "Y": 49.2802522,
+    "Notes": 0
+  },
+  {
+    "addressString": "6295 FRASER ST",
+    "X": -123.0911101,
+    "Y": 49.2275153,
+    "Notes": 0
+  },
+  {
+    "addressString": "6509 VICTORIA DRIVE",
+    "X": -123.0661471,
+    "Y": 49.2249451,
+    "Notes": 0
+  },
+  {
+    "addressString": "725 S  E  MARINE DR",
+    "X": -123.0903437,
+    "Y": 49.2115206,
+    "Notes": 0
+  },
+  {
+    "addressString": "769 EAST HASTINGS STREET",
+    "X": -123.0879913,
+    "Y": 49.281413,
+    "Notes": 0
+  },
+  {
+    "addressString": "855 BURRARD ST",
+    "X": -123.124528,
+    "Y": 49.282748,
+    "Notes": 0
+  },
+  {
+    "addressString": "898 WEST BROADWAY",
+    "X": -123.1233837,
+    "Y": 49.263048,
+    "Notes": 0
+  },
+  {
+    "addressString": "900 SEYMOUR ST",
+    "X": -123.1204451,
+    "Y": 49.279291,
+    "Notes": 0
+  },
+  {
+    "addressString": "961 DENMAN STREET",
+    "X": -123.1381503,
+    "Y": 49.289726,
+    "Notes": 0
+  },
+  {
+    "addressString": "962 WEST KING EDWARD AVE",
+    "X": -123.1259079,
+    "Y": 49.2490879,
+    "Notes": 0
+  },
+  {
+    "addressString": "2136 WESTERN PARKWAY",
+    "X": -123.243436,
+    "Y": 49.2659096,
+    "Notes": 0
+  },
+  {
+    "addressString": "2410 NANAIMO STREET",
+    "X": -123.0564916,
+    "Y": 49.2625989,
+    "Notes": 0
+  },
+  {
+    "addressString": "3281 - 3295 EAST 22ND AVE",
+    "X": -123.0339636,
+    "Y": 49.2506394,
+    "Notes": 0
+  },
+  {
+    "addressString": "6542 VICTORIA DRIVE",
+    "X": -123.0657016,
+    "Y": 49.2246003,
+    "Notes": 0
+  },
+  {
+    "addressString": "7275 MAIN ST",
+    "X": -123.1019672,
+    "Y": 49.2187285,
+    "Notes": 0
+  },
+  {
+    "addressString": "8630 RIVER DISTRICT CROSSING",
+    "X": -123.1294232,
+    "Y": 49.1946369,
+    "Notes": 0
+  },
+  {
+    "addressString": "2557 BURRARD ST",
+    "X": -123.1458284,
+    "Y": 49.2631341,
+    "Notes": 0
+  },
+  {
+    "addressString": "190 W  1ST STREET",
+    "X": -124.0109453,
+    "Y": 54.0134786,
+    "Notes": 0
+  },
+  {
+    "addressString": "2351 CHURCH STREET",
+    "X": -124.0115602,
+    "Y": 54.0153871,
+    "Notes": 0
+  },
+  {
+    "addressString": "2508 BURRARD AVENUE",
+    "X": -124.0082108,
+    "Y": 54.0171326,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT 245A",
+    "X": -122.5438927,
+    "Y": 49.1014202,
+    "Notes": 0
+  },
+  {
+    "addressString": "#200 - 2401  58TH AVE",
+    "X": -119.2616517,
+    "Y": 50.2888004,
+    "Notes": 0
+  },
+  {
+    "addressString": "1220 KALAMALKA LAKE ROAD",
+    "X": -119.2633616,
+    "Y": 50.2508923,
+    "Notes": 0
+  },
+  {
+    "addressString": "2705 32ND STREET",
+    "X": -119.2733126,
+    "Y": 50.2619964,
+    "Notes": 0
+  },
+  {
+    "addressString": "2922 - 30TH AVE",
+    "X": -119.2704173,
+    "Y": 50.2633706,
+    "Notes": 0
+  },
+  {
+    "addressString": "300 - 4400 32ND STREET",
+    "X": -119.2753781,
+    "Y": 50.2767593,
+    "Notes": 0
+  },
+  {
+    "addressString": "3914 32ND ST",
+    "X": -119.2752177,
+    "Y": 50.2714448,
+    "Notes": 0
+  },
+  {
+    "addressString": "4209  27TH ST",
+    "X": -119.2662438,
+    "Y": 50.2745001,
+    "Notes": 0
+  },
+  {
+    "addressString": "4513 25TH AVE.",
+    "X": -119.3071855,
+    "Y": 50.2564176,
+    "Notes": 0
+  },
+  {
+    "addressString": "4801 27TH STREET",
+    "X": -119.2656012,
+    "Y": 50.2828838,
+    "Notes": 0
+  },
+  {
+    "addressString": "4803 PLEASANT VALLEY ROAD",
+    "X": -119.2529725,
+    "Y": 50.282643,
+    "Notes": 0
+  },
+  {
+    "addressString": "6301 STICKLE RD",
+    "X": -119.2533203,
+    "Y": 50.2978261,
+    "Notes": 0
+  },
+  {
+    "addressString": "7892 OKANAGAN LANDING ROAD",
+    "X": -119.3618505,
+    "Y": 50.2327418,
+    "Notes": 0
+  },
+  {
+    "addressString": "7673 OKANAGAN LANDING RD",
+    "X": -119.3553117,
+    "Y": 50.2360126,
+    "Notes": 0
+  },
+  {
+    "addressString": "101 - 225 MENZIES ST",
+    "X": -123.3731554,
+    "Y": 48.4158927,
+    "Notes": 0
+  },
+  {
+    "addressString": "1087 MCKENZIE AVE",
+    "X": -123.3620294,
+    "Y": 48.4702737,
+    "Notes": 0
+  },
+  {
+    "addressString": "1310 ESQUIMALT RD",
+    "X": -123.4173817,
+    "Y": 48.4301138,
+    "Notes": 0
+  },
+  {
+    "addressString": "1520 FAIRFIELD RD",
+    "X": -123.3383186,
+    "Y": 48.4127712,
+    "Notes": 0
+  },
+  {
+    "addressString": "1960 FOUL BAY RD",
+    "X": -123.3237275,
+    "Y": 48.4310352,
+    "Notes": 0
+  },
+  {
+    "addressString": "2219 GOVERNMENT ST",
+    "X": -123.3667472,
+    "Y": 48.433911,
+    "Notes": 0
+  },
+  {
+    "addressString": "2955 TILLICUM RD",
+    "X": -123.3986288,
+    "Y": 48.4493069,
+    "Notes": 0
+  },
+  {
+    "addressString": "3611 SHELBOURNE ST",
+    "X": -123.3328843,
+    "Y": 48.4588829,
+    "Notes": 0
+  },
+  {
+    "addressString": "370 BROADMEAD VILLAGE",
+    "X": -122.2852629,
+    "Y": 50.7096739,
+    "Notes": 0
+  },
+  {
+    "addressString": "600 2945 JACKLIN RD",
+    "X": -123.5083249,
+    "Y": 48.4404373,
+    "Notes": 0
+  },
+  {
+    "addressString": "787 HILLSIDE AVE",
+    "X": -123.364066,
+    "Y": 48.4382522,
+    "Notes": 0
+  },
+  {
+    "addressString": "87 - 1644 HILLSIDE AVENUE",
+    "X": -123.3363293,
+    "Y": 48.4463605,
+    "Notes": 0
+  },
+  {
+    "addressString": "101 - 1505 ADMIRALS ROAD",
+    "X": -123.4264143,
+    "Y": 48.4479859,
+    "Notes": 0
+  },
+  {
+    "addressString": "1075 TILLICUM RD",
+    "X": -123.4004834,
+    "Y": 48.4451031,
+    "Notes": 0
+  },
+  {
+    "addressString": "123 GORGE ROAD E",
+    "X": -123.3859624,
+    "Y": 48.4427349,
+    "Notes": 0
+  },
+  {
+    "addressString": "130  176 WILSON STREET",
+    "X": -123.3808676,
+    "Y": 48.4329561,
+    "Notes": 0
+  },
+  {
+    "addressString": "1450 DOUGLAS STREET",
+    "X": -123.3649729,
+    "Y": 48.4279004,
+    "Notes": 0
+  },
+  {
+    "addressString": "1609 FORT STREET",
+    "X": -123.335729,
+    "Y": 48.4267853,
+    "Notes": 0
+  },
+  {
+    "addressString": "1821 COOK STREET",
+    "X": -123.3525106,
+    "Y": 48.4297928,
+    "Notes": 0
+  },
+  {
+    "addressString": "230 COOK ST",
+    "X": -123.3573185,
+    "Y": 48.4140928,
+    "Notes": 0
+  },
+  {
+    "addressString": "2317 MILLSTREAM ROAD",
+    "X": -123.5008728,
+    "Y": 48.4653173,
+    "Notes": 0
+  },
+  {
+    "addressString": "2631 QUADRA ST",
+    "X": -123.3581446,
+    "Y": 48.4383901,
+    "Notes": 0
+  },
+  {
+    "addressString": "2668 SOOKE RD",
+    "X": -123.5217729,
+    "Y": 48.4334604,
+    "Notes": 0
+  },
+  {
+    "addressString": "2852 DOUGLAS ST",
+    "X": -123.368346,
+    "Y": 48.4393688,
+    "Notes": 0
+  },
+  {
+    "addressString": "2915 DOUGLAS ST",
+    "X": -123.3680178,
+    "Y": 48.4419134,
+    "Notes": 0
+  },
+  {
+    "addressString": "3020 BLANSHARD ST",
+    "X": -123.3671957,
+    "Y": 48.4441573,
+    "Notes": 0
+  },
+  {
+    "addressString": "3201 SHELBOURNE STREET",
+    "X": -123.3327033,
+    "Y": 48.448438,
+    "Notes": 0
+  },
+  {
+    "addressString": "425 SIMCOE STREET",
+    "X": -123.3751987,
+    "Y": 48.4153922,
+    "Notes": 0
+  },
+  {
+    "addressString": "427 BELLEVILLE ST",
+    "X": -123.3732525,
+    "Y": 48.4209226,
+    "Notes": 0
+  },
+  {
+    "addressString": "510 PANDORA AVENE",
+    "X": -123.3692127,
+    "Y": 48.4287557,
+    "Notes": 0
+  },
+  {
+    "addressString": "759 YATES STREET",
+    "X": -123.3627133,
+    "Y": 48.4257599,
+    "Notes": 0
+  },
+  {
+    "addressString": "919 DOUGLAS ST",
+    "X": -123.365261,
+    "Y": 48.4232762,
+    "Notes": 0
+  },
+  {
+    "addressString": "930 VIEW STREET",
+    "X": -123.357665,
+    "Y": 48.4250421,
+    "Notes": 0
+  },
+  {
+    "addressString": "133- 5325 CORDOVA BAY RD",
+    "X": -123.3726706,
+    "Y": 48.529489,
+    "Notes": 0
+  },
+  {
+    "addressString": "2579 CADBORO BAY ROAD",
+    "X": -123.3127589,
+    "Y": 48.4378435,
+    "Notes": 0
+  },
+  {
+    "addressString": "3475 QUADRA STREET",
+    "X": -123.3589346,
+    "Y": 48.4548943,
+    "Notes": 0
+  },
+  {
+    "addressString": "23 HELMCKEN ROAD",
+    "X": -123.426115,
+    "Y": 48.4684521,
+    "Notes": 0
+  },
+  {
+    "addressString": "498 ISLAND HIGHWAY",
+    "X": -123.4596313,
+    "Y": 48.4569199,
+    "Notes": 0
+  },
+  {
+    "addressString": "870 SCHOFIELD HWY",
+    "X": -117.7521528,
+    "Y": 49.0908919,
+    "Notes": 0
+  },
+  {
+    "addressString": "100  3645 GOSSET ROAD",
+    "X": -119.6242951,
+    "Y": 49.8320497,
+    "Notes": 0
+  },
+  {
+    "addressString": "102  3000 LOUIE DRIVE",
+    "X": -119.6180544,
+    "Y": 49.836186,
+    "Notes": 0
+  },
+  {
+    "addressString": "1747 ROSS RD",
+    "X": -122.0904215,
+    "Y": 52.1456593,
+    "Notes": 0
+  },
+  {
+    "addressString": "2210 BOUCHERIE ROAD",
+    "X": -119.5448528,
+    "Y": 49.8731599,
+    "Notes": 0
+  },
+  {
+    "addressString": "2442 DROUGHT RD",
+    "X": -119.6276421,
+    "Y": 49.8307454,
+    "Notes": 0
+  },
+  {
+    "addressString": "3099 SHANNON LAKE ROAD",
+    "X": -119.6193867,
+    "Y": 49.8493908,
+    "Notes": 0
+  },
+  {
+    "addressString": "1434 MARINE DRIVE",
+    "X": -123.1552961,
+    "Y": 49.3278841,
+    "Notes": 0
+  },
+  {
+    "addressString": "195 5335 HEADLAND DR",
+    "X": -123.2529296,
+    "Y": 49.3504833,
+    "Notes": 0
+  },
+  {
+    "addressString": "PARK ROYAL NORTH SHOPPING CTR",
+    "X": -122.8275,
+    "Y": 49.1116667,
+    "Notes": 0
+  },
+  {
+    "addressString": "104 - 100 PARK ROYAL",
+    "X": -122.9027066,
+    "Y": 49.2099207,
+    "Notes": 0
+  },
+  {
+    "addressString": "1C 900 MAIN ST",
+    "X": -129.984013,
+    "Y": 55.9393699,
+    "Notes": 0
+  },
+  {
+    "addressString": "220  16TH ST",
+    "X": -123.1581868,
+    "Y": 49.3278567,
+    "Notes": 0
+  },
+  {
+    "addressString": "2477 MARINE DRIVE",
+    "X": -124.1692189,
+    "Y": 49.2739684,
+    "Notes": 0
+  },
+  {
+    "addressString": "6406 BRUCE STREET",
+    "X": -123.2754353,
+    "Y": 49.3736403,
+    "Notes": 0
+  },
+  {
+    "addressString": "27 - 2475 DOBBIN RD",
+    "X": -119.629564,
+    "Y": 49.8272462,
+    "Notes": 0
+  },
+  {
+    "addressString": "101 4360 LORIMER RD",
+    "X": -122.9562607,
+    "Y": 50.1192009,
+    "Notes": 0
+  },
+  {
+    "addressString": "205 2071 LAKE PLACID RD",
+    "X": -122.9908576,
+    "Y": 50.0949399,
+    "Notes": 0
+  },
+  {
+    "addressString": "4211 VILLAGE SQUARE",
+    "X": -122.9565455,
+    "Y": 50.1148854,
+    "Notes": 0
+  },
+  {
+    "addressString": "1 - 4573 CHATEAU BLVD",
+    "X": -122.9473781,
+    "Y": 50.1171609,
+    "Notes": 0
+  },
+  {
+    "addressString": "2129 LAKE PLACID RD",
+    "X": -122.9946867,
+    "Y": 50.0961501,
+    "Notes": 0
+  },
+  {
+    "addressString": "7017 NESTERS ROAD",
+    "X": -122.9557026,
+    "Y": 50.1277523,
+    "Notes": 0
+  },
+  {
+    "addressString": "8200 BEAR PAW WAY",
+    "X": -122.9551113,
+    "Y": 50.1565332,
+    "Notes": 0
+  },
+  {
+    "addressString": "UNIT B-D 2010 LONDON LANE",
+    "X": -122.9895806,
+    "Y": 50.0965566,
+    "Notes": 0
+  },
+  {
+    "addressString": "1235 JOHNSTON ROAD",
+    "X": -122.8012106,
+    "Y": 49.0246612,
+    "Notes": 0
+  },
+  {
+    "addressString": "15144 NORTH BLUFF ROAD",
+    "X": -122.8040091,
+    "Y": 49.0310342,
+    "Notes": 0
+  },
+  {
+    "addressString": "730 B OLIVER ST",
+    "X": -123.3131516,
+    "Y": 48.4170004,
+    "Notes": 0
+  },
+  {
+    "addressString": "1114 DENNY ROAD",
+    "X": -124.9056747,
+    "Y": 49.7347478,
+    "Notes": 0
+  },
+  {
+    "addressString": "1118 LAKEVIEW CRES",
+    "X": -122.1255689,
+    "Y": 52.1275728,
+    "Notes": 0
+  },
+  {
+    "addressString": "1730 S BROADWAY",
+    "X": -123.1440602,
+    "Y": 49.2636147,
+    "Notes": 0
+  },
+  {
+    "addressString": "245 DONALD ROAD",
+    "X": -122.134841,
+    "Y": 52.1351294,
+    "Notes": 0
+  },
+  {
+    "addressString": "3015 MACKENZIE AVE N",
+    "X": -122.1698919,
+    "Y": 52.1470401,
+    "Notes": 0
+  },
+  {
+    "addressString": "30 10051 HWY 97",
+    "X": -119.4043953,
+    "Y": 50.0285038,
+    "Notes": 0
+  },
+  {
+    "addressString": "10524 NORTH SHORE ROAD",
+    "X": -124.3663091,
+    "Y": 48.919551,
+    "Notes": 0
+  },
+  {
+    "addressString": "148 MAQUINNA AVENUE",
+    "X": -126.8455025,
+    "Y": 49.9829127,
+    "Notes": 0
+  }
+]
