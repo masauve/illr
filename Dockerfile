@@ -1,4 +1,4 @@
-FROM rhscl/python-27-rhel7
+FROM registry.access.redhat.com/rhscl/python-27-rhel7:latest
 
 CMD yum update -y
 
