@@ -1,6 +1,6 @@
 FROM rhscl/python-27-rhel7
 
-RUN yum update -y && install uwsgi
+RUN pip install uwsgi
 COPY . /opt/app-root
 
 EXPOSE 8080
