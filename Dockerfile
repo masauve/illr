@@ -1,4 +1,4 @@
-FROM centos:centos/python-27-centos7
+FROM centos/python-27-centos7
 
 ENV PYTHON_VERSION=2.7 \
     PATH=$HOME/.local/bin/:$PATH
