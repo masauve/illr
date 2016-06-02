@@ -1,5 +1,7 @@
 FROM rhscl/python-27-rhel7
 
-CMD yum update -y
+RUN yum update -y && install uwsgi
+COPY . /opt/app-root
 
-ENTRYPOINT ['top', '-b']
+EXPOSE 8080
+CMD uwsgi --http 127.0.0.1:8080
