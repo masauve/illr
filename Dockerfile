@@ -1,4 +1,4 @@
-FROM openshift3/python-33-rhel7
+FROM openshift3/python-27-rhel7
 
 CMD yum update -y
 
