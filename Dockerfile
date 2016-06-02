@@ -8,7 +8,7 @@ LABEL io.k8s.description="Platform for building and running Python 2.7 applicati
       io.openshift.expose-services="8080:http" \
       io.openshift.tags="builder,python,python27,rh-python27"
 
-RUN yum update && install -y virtualenv
+RUN sudo yum update && install -y virtualenv
 RUN virtualenv $HOME/illr \
   && source $HOME/illr/bin/activate \
   && wget -O /tmp/pip_install.py https://bootstrap.pypa.io/get-pip.py
